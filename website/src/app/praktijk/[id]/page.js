@@ -11,7 +11,7 @@ export async function generateMetadata({ params }) {
 
     if (!data) return { title: 'Praktijk niet gevonden' };
 
-    const title = `${data.name} — Fysiotherapie ${data.city || ''} | VindFysio`;
+    const title = `${data.name} — Fysiotherapie ${data.city || ''}`;
     const description = `${data.name} in ${data.city}${data.rating ? ` ⭐ ${data.rating}/5` : ''}${data.reviews_count ? ` (${data.reviews_count} reviews)` : ''}. Bekijk contactgegevens, openingstijden en beoordelingen.`;
 
     return {
