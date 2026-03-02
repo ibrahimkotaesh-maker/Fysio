@@ -1,0 +1,248 @@
+﻿
+====================================================================================================
+KEYWORD: fysiotherapeut | Total results: 49
+====================================================================================================
+  # 1 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | defysiotherapeut.com                     | de Fysiotherapeut - De expert in houding en beweging - de ..
+  # 2 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | nl.wikipedia.org                         | Fysiotherapeut
+  # 3 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.zorgkaartnederland.nl                | 19014 fysiotherapeuten in Nederland
+  # 4 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.rijksoverheid.nl                     | Zijn fysiotherapie en oefentherapie opgenomen in het ...
+  # 5 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.independer.nl                        | Vind de beste fysiotherapeut in je buurt
+  # 6 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.kngf.nl                              | KNGF: Welkom op de homepagina
+  # 7 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.hierhebikpijn.nl                     | Vind een fysiotherapeut | Fysiotherapie 2026 | Overzicht
+  # 8 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | defysiotherapeut.com                     | Wat doet de fysiotherapeut | Defysiotherapeut.com
+  # 9 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.praktijkdewiel.nl                    | Wat is fysiotherapie? Wat doet een fysiotherapeut?
+  #10 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.smcamsterdam.nl                      | SMC Amsterdam | Fysiotherapie Amsterdam | Fysio Amsterdam
+  #11 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.rijnmond.nl                          | Fysiotherapeut Jamie (29) woont uit nood in een container
+  #12 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.isala.nl                             | Fysiotherapie
+  #13 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.tudelft.nl                           | Fysiotherapie
+  #14 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.bovenij.nl                           | Fysiotherapie kan lichamelijke klachten voorkomen, ...
+  #15 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.haaglandenmc.nl                      | Fysiotherapie afdeling - Zorg is aandacht
+  #16 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiodouma.nl                        | Fysio Douma
+  #17 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapievangilst.nl             | Wij zijn uw gespecialiseerde fysiotherapeut in Arnhem
+  #18 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiomoov.nl                         | Fysio Moov | Persoonlijke Sportfysiotherapie voor Jou
+  #19 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.avl.nl                               | Fysiotherapie | Antoni van Leeuwenhoek
+  #20 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.zorgkiezer.nl                        | Fysiotherapeuten in Den Haag (177 gevonden)
+  #21 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.tubantia.nl                          | Met Joy Beune in de auto naar Milaan: Wierdense ...
+  #22 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.kno.nl                               | Fysiotherapeuten - Keel-Neus-Oorheelkunde en Heelkunde ...
+  #23 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.zilverenkruis.nl                     | Wat krijg ik vergoed als ik naar de fysio ga?
+  #24 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapiemovewell.nl                 | MoveWell | Fysiotherapeut, Fysio, Fysiotherapie Hilversum
+  #25 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.martiniziekenhuis.nl                 | Fysiotherapie
+  #26 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysio-barendrecht.nl                 | Fysio Barendrecht - fijne service - Contracten met alle ...
+  #27 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.lijfenvisie.nl                       | Lijf & Visie - Lijf & Visie ZORG, VITAAL en FIT - Soest
+  #28 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.defysiotherapeutzwolle.nl            | De Fysiotherapeut Zwolle - Waarmee kunnen we u helpen?
+  #29 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.smc-tilburg.nl                       | Fysiotherapie Tilburg | Specialistisch herstel bij SMC
+  #30 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | benbhealthcare.nl                        | B&B Healthcare: Fysiotherapie Den Haag, Maximaal Herstel
+  #31 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | defysiotherapeut.com                     | Specialist vinden
+  #32 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.youtube.com                          | Wat doet de Fysiotherapeut?
+  #33 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiomedics.nl                       | Fysio Medics: Fysiotherapie in Enschede | Persoonlijke ...
+  #34 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.flevoziekenhuis.nl                   | Fysiotherapie - Almere
+  #35 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.nijsmellinghe.nl                     | Fysiotherapie ¢ Ziekenhuis Nij Smellinghe
+  #36 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.maasziekenhuispantein.nl             | Fysiotherapie Maasziekenhuis Pantein Beugen (Boxmeer)
+  #37 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiopensioen.nl                     | SPF Stichting Pensioenfonds voor Fysiotherapeuten
+  #38 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.bravisrevalidatie.nl                 | Fysiotherapeut - Revalidatie
+  #39 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiosportiefgroningen.nl                | Welkom bij fysiosportief Groningen
+  #40 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | nl.wikipedia.org                         | Fysiotherapie
+  #41 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiokempsrijf.nl                        | Kemps & Rijf | Fysiotherapie en Training ... - Aarle-Rixtel
+  #42 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.catharinaziekenhuis.nl               | Fysiotherapie
+  #43 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapiebeuzenberg.nl           | Fysiotherapie Groningen û Behandeling op maat bij klachten
+  #44 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.nationalevacaturebank.nl             | 89 fysiotherapeut vacatures in Amsterdam | 1 maart 2026
+  #45 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapieelisabeth.nl            | Fysiotherapie Elisabeth - Fysiotherapeut in Alkmaar
+  #46 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapieachtsebarrier.nl            | Fysiotherapie Eindhoven | Fysiotherapie Achtse Barrier
+  #47 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiocentrumutrecht.nl                   | Fysio Centrum Utrecht & Leidsche Rijn
+  #48 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapie-west.nl                | Fysiotherapie West: Fysiotherapeut in Kampen
+  #49 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | topfysio.nl                              | TopFysio û Jouw fysiotherapeut in Leeuwarden
+
+====================================================================================================
+KEYWORD: fysiotherapie | Total results: 49
+====================================================================================================
+  # 1 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | defysiotherapeut.com                     | de Fysiotherapeut - De expert in houding en beweging
+  # 2 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | nl.wikipedia.org                         | Fysiotherapie
+  # 3 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.rijksoverheid.nl                     | Zijn fysiotherapie en oefentherapie opgenomen in het ...
+  # 4 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.praktijkdewiel.nl                    | Wat is fysiotherapie? Wat doet een fysiotherapeut?
+  # 5 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.kngf.nl                              | KNGF: Welkom op de homepagina
+  # 6 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.independer.nl                        | Vind de beste fysiotherapeut in je buurt
+  # 7 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.welingelichtekringen.nl              | Fysiotherapie | Nieuws, tips en inzichten
+  # 8 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiohp.nl                           | Fysiotherapie Enschede - Huigen & Pruntel - Uw Klacht, ...
+  # 9 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapiegraftderijp.nl              | Fysiotherapie - Graft-De Rijp
+  #10 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiokempsrijf.nl                        | Kemps & Rijf | Fysiotherapie en Training ... - Aarle-Rixtel
+  #11 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.hanze.nl                             | HBO Fysiotherapie Opleiding - voltijd in 4 jaar
+  #12 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiobunde.nl                        | Fysio Bunde: Home
+  #13 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapiejoure.nl                | Fysiotherapie Joure | werk(t) aan herstel!
+  #14 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | orthopedie.xpertclinics.nl               | Fysiotherapie | Xpert Clinics Orthopedie
+  #15 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | defysiotherapeut.com                     | Wat doet de fysiotherapeut | Defysiotherapeut.com
+  #16 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapierijnmond.nl             | Fysiotherapie Rijnmond: Fysiotherapie met aandacht
+  #17 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.zilverenkruis.nl                     | Wat krijg ik vergoed als ik naar de fysio ga?
+  #18 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.menzis.nl                            | Vergoeding fysio- en oefentherapie vanaf 18 jaar
+  #19 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fitaal.nl                                | Fitaal Heerenveen | Fysiotherapie & Revalidatie
+  #20 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiomedics.nl                       | Fysio Medics: Fysiotherapie in Enschede | Persoonlijke ...
+  #21 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysio-instituut.nl                   | Fysiotherapeutisch Instituut Arnhem - Fysiotherapie in Arnhe
+  #22 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapiescheperpark.nl          | Fysiotherapie Scheperpark | Emmen
+  #23 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.zorggroep-almere.nl                  | Professionele fysiotherapie in Almere
+  #24 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | timfysiotherapie.nl                      | Together In Motion Fysiotherapie | Samen in Beweging
+  #25 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.smc-tilburg.nl                       | Fysiotherapie Tilburg | Specialistisch herstel bij SMC
+  #26 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | pmirembrandt.nl                          | Rembrandt Fysiotherapie & Revalidatie | Homepagina
+  #27 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fytt.nl                                  | FYTT | Fysiotherapie Heerenveen | Persoonlijke Aandacht
+  #28 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | medifitfysiotherapie.nl                  | Medifit Fysiotherapie - maak eenvoudig een afspraak
+  #29 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapiesterrenburg.nl              | Fysiotherapie Sterrenburg in Dordrecht
+  #30 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.sks-fysiotherapie.nl                 | SKS Fysiotherapie û Fysiotherapiepraktijk in Assen en Rolde
+  #31 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiodouma.nl                        | Fysio Douma
+  #32 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapieonthemove.nl                | Fysiotherapie Enschede - Fysiotherapie On The Move
+  #33 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapiewieenhof.nl             | Fysiotherapie Venray l Direct geholpen worden? Vakkundig
+  #34 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapie-west.nl                | Fysiotherapie West: Fysiotherapeut in Kampen
+  #35 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapiewh.nl                       | Ontdek Fysiotherapie WH - Optimaal herstel en welzijn
+  #36 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysio-gravenesch.nl                  | Fysiotherapiepraktijk De Graven Esch: Fysiotherapeut Almelo
+  #37 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapie-klazienaveen.nl            | Fysiotherapie Klazienaveen: Welke therapievorm heb ik nodig?
+  #38 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysioholland.nl                      | FysioHolland | Fysiotherapie voor iedereen
+  #39 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | funqtio.nl                               | Funqtio: Fysiotherapie in Venlo, Steyl, Meijel, Beringe & ..
+  #40 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysioexpert.nl                       | FysioExpert: Fysiotherapie Haarlem
+  #41 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysioexpert.nl                       | FysioExpert: Fysiotherapie Haarlem
+  #42 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.youtube.com                          | Wat doet de Fysiotherapeut?
+  #43 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysicodordrecht.nl                   | Fysiotherapie in Dordrecht
+  #44 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiocuraplaza.nl                    | Fysio Cura Plaza: Vooruitstrevend in Beweging! - Hoofddorp
+  #45 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapiegroningen.nl                | Fysiotherapie Groningen
+  #46 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.lrjg.nl                              | Deskundige fysiotherapie in Vleuten, De Meern en Utrecht ...
+  #47 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapiegouda.nl                    | Fysiotherapie Gouda
+  #48 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapiesalland.nl                  | Fysiotherapie Salland: Home
+  #49 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapieelisabeth.nl            | Fysiotherapie Elisabeth - Fysiotherapeut in Alkmaar
+
+====================================================================================================
+KEYWORD: fysiotherapeut amsterdam | Total results: 50
+====================================================================================================
+  # 1 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiocentrumamsterdam.nl             | Fysio Centrum Amsterdam
+  # 2 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.amsterdamfysio.nl                    | Amsterdam Fysio
+  # 3 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiopleinwest.nl                    | Fysio Plein West, Fysiotherapie in Amsterdam West
+  # 4 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | ftamsterdam.nl                           | Fysiotherapie & Training Amsterdam | Fysio Amsterdam
+  # 5 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysioamsterdamwest.nl                    | Fysio Amsterdam West
+  # 6 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.smcamsterdam.nl                      | SMC Amsterdam | Fysiotherapie Amsterdam | Fysio Amsterdam
+  # 7 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | vondelfysio.nl                           | Vondelfysio | Fysiotherapeut in Amsterdam | De Fysio van ...
+  # 8 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiolution.nl                       | Fysiolution | Fysiotherapie in Amsterdam Oost & Centrum
+  # 9 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysioholland.nl                      | FysioHolland Amsterdam Centrum Govert Flinckstraat
+  #10 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.profysio.nl                          | ProFysio Amsterdam | Fysiotherapie & Sport Medisch ...
+  #11 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | yorbodyfysiotherapie.nl                  | Fysiotherapie Amsterdam West Nieuw Sloten
+  #12 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiolution.nl                       | Fysiolution | Fysiotherapie in Amsterdam Oost & Centrum
+  #13 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | defysioman.nl                            | De Fysio Man û Jouw fysiotherapeut in Amsterdam
+  #14 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.zorgkaartnederland.nl                | 925 fysiotherapeuten in Amsterdam
+  #15 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiocity.nl                         | Fysiotherapie Amsterdam Centrum | FysioCity Amsterdam
+  #16 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.profysio.nl                          | ProFysio Amsterdam | Fysiotherapie & Sport Medisch Centrum
+  #17 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.plexusamsterdam.nl                   | Fysiotherapie Amsterdam en Manuele therapie in Amsterdam ...
+  #18 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiomed.org                             | Fysiomed | Sport Medisch Centrum in Amsterdam ...
+  #19 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | kirchhoff-fysio.nl                       | Vestiging Amsterdam
+  #20 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapieconfuciusplein.nl       | Fysiotherapie Confuciusplein û Paramedische praktijk ...
+  #21 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapiesvh.nl                  | Fysiotherapie Sam van Houten û Amsterdam
+  #22 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapie-keizersgracht.nl       | Fysiotherapie de Nieuwe Keizers - Locaties Fysiotherapie de 
+  #23 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.zorgkiezer.nl                        | Alle fysiotherapeuten in Amsterdam, zoek een fysiotherapeut
+  #24 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.groepspraktijkdevries.nl             | Groepspraktijk de Vries | Maak direct een afspraak!
+  #25 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysioxl.nl                           | Fysiotherapie Amsterdam Zuid
+  #26 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapievanwou.nl               | Fysiotherapie van Wou û Amsterdam Oud-Zuid en De Pijp ...
+  #27 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysio-oost-west-ijburg.nl                | FYSIOTHERAPIE AMSTERDAM OOST | IN OOST, WEST EN ...
+  #28 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapiecentrumamsterdam.nl         | Maak kennis met het team van Fysiotherapie Centrum ...
+  #29 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysioworldamsterdam.nl                   | Fysiotherapie in Amsterdam in de avonduren
+  #30 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiospaarndammerhout.nl             | Fysio SpaarndammerHout I Fysiotherapie Amsterdam-West
+  #31 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysioijburg.nl                           | Fysio IJburg: Fysiotherapie op IJburg, Amsterdam
+  #32 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | arena-fysio.nl                           | Fysiotherapie Amsterdam Oost - Amstelkwartier - Arena Fysio
+  #33 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysio-osdorp.nl                          | Fysiotherapie Osdorp û Fysio in Amsterdam Nieuw West ...
+  #34 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | zorgvinder.cz.nl                         | Fysiotherapeut - Amsterdam - Vind de beste zorg voor ·
+  #35 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysioenmotion.nl                         | Fysiotherapie Amsterdam Noord - Jouw Partner In Herstel
+  #36 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiopleinwest.nl                    | Fysio Plein West, Fysiotherapie in Amsterdam West
+  #37 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | hpfysio.nl                               | Fysiotherapie Amsterdam Zuid - Healthy Performance Fysio
+  #38 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiocentrumamsterdam.nl             | Fysiotherapie Amsterdam Zuidoost, fysiotherapeut ...
+  #39 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | yorbodyfysiotherapie.nl                  | Fysiotherapie in Amsterdam-Noord (Distelweg)
+  #40 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapietransvaalbuurt.nl           | Fysiotherapie Transvaalbuurt in Amsterdam Oost - Fysio
+  #41 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapieoudwest.nl              | Fysiotherapie Oud-West
+  #42 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiokoudijs.nl                          | Fysiokoudijs Fysiotherapie praktijk Amsterdam Noord
+  #43 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiofitamsterdam.nl                     | Fysiotherapie Amsterdam
+  #44 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapiehofmijster.nl               | Groepspraktijk voor Fysiotherapie Hofmijster ╖ Amsterdam Zui
+  #45 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | wijs.fit                                 | Wijs Fysio
+  #46 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | degoudenreael.nl                         | De Gouden Reael: HΘt adres voor bewegen en gezondheid in ...
+  #47 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiokliniekamsterdam.nl             | Fysiokliniek Amsterdam
+  #48 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysio-amsterdamcentrum.com               | Fysio Amsterdam
+  #49 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.nationalevacaturebank.nl             | 89 fysiotherapeut vacatures in Amsterdam | 1 maart 2026
+  #50 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiomcn.nl                          | FysioMCN û Jouw schakel tussen willen en kunnen
+
+====================================================================================================
+KEYWORD: bekkenfysiotherapie | Total results: 49
+====================================================================================================
+  # 1 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.bekkenfysiotherapie.nl               | NVFB
+  # 2 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | defysiotherapeut.com                     | Bekkenfysiotherapeut | Defysiotherapeut.com
+  # 3 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.kngf.nl                              | Bekkenfysiotherapie | NVFB
+  # 4 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.debekkenfysiotherapie.nl             | De Bekken Fysiotherapie û De bekkenfysiotherapeut in ...
+  # 5 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.centrumevers.nl                      | Bekkenfysiotherapie
+  # 6 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapierotterdamcentrum.nl     | Bekkenfysiotherapie
+  # 7 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.bravis.nl                            | Bekkenfysiotherapie
+  # 8 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapie-woerden.nl             | Bekkenfysiotherapie
+  # 9 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.b-fysic.nl                           | Bekkenfysiotherapie
+  #10 (P1) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.topfit-fysiotherapie.nl              | Bekkenfysiotherapie
+  #11 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.rijnstate.nl                         | Bekkenfysiotherapie
+  #12 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapiedukenburg.nl            | Bekkenfysiotherapie
+  #13 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | monne-zorgenbeweging.nl                  | Bekkenfysiotherapie | MonnΘ Zorg & Beweging in Breda
+  #14 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | mcz.nl                                   | Bekkenfysiotherapie Groningen - MCZ Groningen & Haren
+  #15 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | bekkenzorgcentrum.nl                     | Bekkenzorgcentrum: Home
+  #16 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.ghz.nl                               | Bekkenfysiotherapie
+  #17 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysio-lingewaard.nl                      | Bekkenfysiotherapie in Bemmel
+  #18 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.alrijne.nl                           | Bekkenfysiotherapie
+  #19 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.bekkenfysiotherapietwente.nl         | BekkenfysiotherapieTwente
+  #20 (P2) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.tergooi.nl                           | Bekkenfysiotherapie
+  #21 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiopelvis.nl                       | FysioPelvis - DΘ Bekkenfysiotherapie Specialist van Nederlan
+  #22 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.bekken-bodem.nl                      | Bekken&Bodem | Expertisecentrum ... - Zwolle
+  #23 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.diakonessenhuis.nl                   | Bekkenfysiotherapie
+  #24 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.gcrollepaal.nl                       | Bekkenfysiotherapie - Fysiotherapie Rollepaal
+  #25 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapiehouwerenruijs.nl        | Bekkenfysiotherapie in Apeldoorn
+  #26 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.pelvicentrum.nl                      | Bekkenfysiotherapie bij PelviCentrum: voor iedereen.
+  #27 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysioalphen.nl                           | Bekkenfysiotherapie in Alphen aan den Rijn
+  #28 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.lumc.nl                              | Fysiotherapie bij bekkenbodemproblemen | LUMC
+  #29 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | dok11fysiotherapie.nl                    | Bekkenfysiotherapie
+  #30 (P3) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.bekkenfysiotherapielochem.nl         | Bekkenfysiotherapie Lochem
+  #31 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.bekkenpraktijk.nl                    | Bekkenfysiotherapie | Deventer | Bekkenpraktijk
+  #32 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiosantpoort.nl                    | Bekkenfysiotherapie
+  #33 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.etz.nl                               | Bekkenfysiotherapie
+  #34 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.nijsmellinghe.nl                     | Bekkenfysiotherapie
+  #35 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.zorgkaartnederland.nl                | 538 fysiotherapeuten met specialisatie ...
+  #36 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.smc-tilburg.nl                       | Bekkenfysiotherapie Tilburg | Voorkom bekkenklachten
+  #37 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.pmcz.nl                              | Bekkenfysiotherapie | Paramedisch Centrum Zutphen | PMCZ
+  #38 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.pmcimpact.nl                         | Bekkenfysiotherapie Zoetermeer
+  #39 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapie-hoogeveen.nl               | Bekkenfysiotherapie
+  #40 (P4) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.bekkenfysiotherapie072.nl            | Bekkenfysiotherapie 072
+  #41 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysioeffect.nl                           | Bekkenfysiotherapie: pijn in/rondom je bekken verhelpen
+  #42 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | somt.nl                                  | Master Bekkenfysiotherapie
+  #43 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | fysiotherapiedelft.nl                    | Bekkenfysiotherapie
+  #44 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapienijverdal.nl            | Bekkenfysiotherapie | Fysiotherapienijverd
+  #45 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | bekkencentrum.nl                         | Bekkencentrum voor bekkenfysiotherapie
+  #46 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.bfhe.nl                              | Bekkenfysiotherapie Hogen Esch | Enkhuizen
+  #47 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiotherapiemiltenburg.nl           | Wat is bekkenfysiotherapie of bekkenbodemtherapie?
+  #48 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.rijnstate.nl                         | Bekkenfysiotherapie
+  #49 (P5) | DR:   0 | PR:   0 | BL:     0 | RD:    0 | www.fysiocentrumkamminga.nl              | Bekkenfysiotherapie - Hengelo
+
+
+====================================================================================================
+COMPETITOR DOMAIN FREQUENCY ANALYSIS
+====================================================================================================
+  defysiotherapeut.com                          | Apps:6 | AvgRank:  9.7 | DR:   0 | fysiotherapeut(#1), fysiotherapeut(#8), fysiotherapeut(#31), fysiotherapie(#1), fysiotherapie(#15), bekkenfysiotherapie(#2)
+  nl.wikipedia.org                              | Apps:3 | AvgRank: 14.7 | DR:   0 | fysiotherapeut(#2), fysiotherapeut(#40), fysiotherapie(#2)
+  www.zorgkaartnederland.nl                     | Apps:3 | AvgRank: 17.3 | DR:   0 | fysiotherapeut(#3), fysiotherapeut amsterdam(#14), bekkenfysiotherapie(#35)
+  www.kngf.nl                                   | Apps:3 | AvgRank:  4.7 | DR:   0 | fysiotherapeut(#6), fysiotherapie(#5), bekkenfysiotherapie(#3)
+  www.smc-tilburg.nl                            | Apps:3 | AvgRank: 30.0 | DR:   0 | fysiotherapeut(#29), fysiotherapie(#25), bekkenfysiotherapie(#36)
+  www.rijksoverheid.nl                          | Apps:2 | AvgRank:  3.5 | DR:   0 | fysiotherapeut(#4), fysiotherapie(#3)
+  www.independer.nl                             | Apps:2 | AvgRank:  5.5 | DR:   0 | fysiotherapeut(#5), fysiotherapie(#6)
+  www.praktijkdewiel.nl                         | Apps:2 | AvgRank:  6.5 | DR:   0 | fysiotherapeut(#9), fysiotherapie(#4)
+  www.smcamsterdam.nl                           | Apps:2 | AvgRank:  8.0 | DR:   0 | fysiotherapeut(#10), fysiotherapeut amsterdam(#6)
+  www.fysiodouma.nl                             | Apps:2 | AvgRank: 23.5 | DR:   0 | fysiotherapeut(#16), fysiotherapie(#31)
+  www.zorgkiezer.nl                             | Apps:2 | AvgRank: 21.5 | DR:   0 | fysiotherapeut(#20), fysiotherapeut amsterdam(#23)
+  www.zilverenkruis.nl                          | Apps:2 | AvgRank: 20.0 | DR:   0 | fysiotherapeut(#23), fysiotherapie(#17)
+  www.youtube.com                               | Apps:2 | AvgRank: 37.0 | DR:   0 | fysiotherapeut(#32), fysiotherapie(#42)
+  www.fysiomedics.nl                            | Apps:2 | AvgRank: 26.5 | DR:   0 | fysiotherapeut(#33), fysiotherapie(#20)
+  www.nijsmellinghe.nl                          | Apps:2 | AvgRank: 34.5 | DR:   0 | fysiotherapeut(#35), bekkenfysiotherapie(#34)
+  fysiokempsrijf.nl                             | Apps:2 | AvgRank: 25.5 | DR:   0 | fysiotherapeut(#41), fysiotherapie(#10)
+  www.nationalevacaturebank.nl                  | Apps:2 | AvgRank: 46.5 | DR:   0 | fysiotherapeut(#44), fysiotherapeut amsterdam(#49)
+  www.fysiotherapieelisabeth.nl                 | Apps:2 | AvgRank: 47.0 | DR:   0 | fysiotherapeut(#45), fysiotherapie(#49)
+  www.fysiotherapie-west.nl                     | Apps:2 | AvgRank: 41.0 | DR:   0 | fysiotherapeut(#48), fysiotherapie(#34)
+  www.fysioholland.nl                           | Apps:2 | AvgRank: 23.5 | DR:   0 | fysiotherapie(#38), fysiotherapeut amsterdam(#9)
+  www.fysioexpert.nl                            | Apps:2 | AvgRank: 40.5 | DR:   0 | fysiotherapie(#40), fysiotherapie(#41)
+  www.fysiocentrumamsterdam.nl                  | Apps:2 | AvgRank: 19.5 | DR:   0 | fysiotherapeut amsterdam(#1), fysiotherapeut amsterdam(#38)
+  www.fysiopleinwest.nl                         | Apps:2 | AvgRank: 19.5 | DR:   0 | fysiotherapeut amsterdam(#3), fysiotherapeut amsterdam(#36)
+  www.fysiolution.nl                            | Apps:2 | AvgRank: 10.0 | DR:   0 | fysiotherapeut amsterdam(#8), fysiotherapeut amsterdam(#12)
+  www.profysio.nl                               | Apps:2 | AvgRank: 13.0 | DR:   0 | fysiotherapeut amsterdam(#10), fysiotherapeut amsterdam(#16)
+  yorbodyfysiotherapie.nl                       | Apps:2 | AvgRank: 25.0 | DR:   0 | fysiotherapeut amsterdam(#11), fysiotherapeut amsterdam(#39)
+  www.rijnstate.nl                              | Apps:2 | AvgRank: 29.5 | DR:   0 | bekkenfysiotherapie(#11), bekkenfysiotherapie(#48)
+  www.hierhebikpijn.nl                          | Apps:1 | AvgRank:  7.0 | DR:   0 | fysiotherapeut(#7)
+  www.rijnmond.nl                               | Apps:1 | AvgRank: 11.0 | DR:   0 | fysiotherapeut(#11)
+  www.isala.nl                                  | Apps:1 | AvgRank: 12.0 | DR:   0 | fysiotherapeut(#12)

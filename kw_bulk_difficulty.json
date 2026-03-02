@@ -1,0 +1,346 @@
+﻿{
+    "version": "0.1.20260223",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.1320 sec.",
+    "cost": 0.015,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "03020352-1420-0392-0000-0bb519ad93a6",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.0722 sec.",
+            "cost": 0.015,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "dataforseo_labs",
+                "google",
+                "bulk_keyword_difficulty",
+                "live"
+            ],
+            "data": {
+                "api": "dataforseo_labs",
+                "function": "bulk_keyword_difficulty",
+                "se_type": "google",
+                "keywords": [
+                    "fysiotherapeut",
+                    "fysiotherapie",
+                    "fysio",
+                    "fysio in de buurt",
+                    "fysiotherapeut bij mij in de buurt",
+                    "fysiotherapeut amsterdam",
+                    "fysiotherapeut rotterdam",
+                    "fysiotherapeut den haag",
+                    "fysiotherapeut utrecht",
+                    "fysio amsterdam",
+                    "fysio rotterdam",
+                    "manuele therapie",
+                    "sportfysiotherapie",
+                    "bekkenfysiotherapie",
+                    "dry needling",
+                    "kinderfysiotherapie",
+                    "geriatrische fysiotherapie",
+                    "shockwave therapie",
+                    "fysiotherapie vergoeding",
+                    "fysiotherapie kosten",
+                    "fysiotherapie aan huis",
+                    "rugpijn",
+                    "kniepijn",
+                    "nekpijn",
+                    "schouderpijn",
+                    "sportblessure",
+                    "hernia",
+                    "whiplash",
+                    "fysiotherapeut eindhoven",
+                    "fysiotherapeut groningen",
+                    "fysiotherapeut tilburg",
+                    "fysiotherapeut breda",
+                    "fysiotherapeut leiden",
+                    "fysiotherapeut arnhem",
+                    "fysiotherapeut nijmegen",
+                    "fysiotherapeut haarlem",
+                    "fysiotherapeut almere",
+                    "fysiotherapeut enschede",
+                    "fysiotherapeut maastricht",
+                    "oncologische fysiotherapie",
+                    "neurologie fysiotherapie",
+                    "fysiotherapie zwangerschap",
+                    "beste fysiotherapeut",
+                    "fysiotherapie verzekering",
+                    "vergoeding fysiotherapie 2025",
+                    "physiotherapy amsterdam",
+                    "physiotherapist netherlands",
+                    "english speaking physiotherapist amsterdam",
+                    "fysiotherapie vergelijken",
+                    "fysiotherapeut zoeken"
+                ],
+                "location_code": 2528,
+                "language_code": "nl"
+            },
+            "result": [
+                {
+                    "se_type": "google",
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "total_count": 50,
+                    "items_count": 50,
+                    "items": [
+                        {
+                            "se_type": "google",
+                            "keyword": "bekkenfysiotherapie",
+                            "keyword_difficulty": 1
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "beste fysiotherapeut",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "dry needling",
+                            "keyword_difficulty": 11
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "english speaking physiotherapist amsterdam",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysio",
+                            "keyword_difficulty": 62
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysio amsterdam",
+                            "keyword_difficulty": 43
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysio in de buurt",
+                            "keyword_difficulty": 34
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysio rotterdam",
+                            "keyword_difficulty": 40
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut",
+                            "keyword_difficulty": 24
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut almere",
+                            "keyword_difficulty": 27
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut amsterdam",
+                            "keyword_difficulty": 29
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut arnhem",
+                            "keyword_difficulty": 20
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut breda",
+                            "keyword_difficulty": 35
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut den haag",
+                            "keyword_difficulty": 31
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut eindhoven",
+                            "keyword_difficulty": 21
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut enschede",
+                            "keyword_difficulty": 42
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut groningen",
+                            "keyword_difficulty": 10
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut haarlem",
+                            "keyword_difficulty": 30
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut leiden",
+                            "keyword_difficulty": 31
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut maastricht",
+                            "keyword_difficulty": 39
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut nijmegen",
+                            "keyword_difficulty": 29
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut rotterdam",
+                            "keyword_difficulty": 19
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut tilburg",
+                            "keyword_difficulty": 29
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut utrecht",
+                            "keyword_difficulty": 38
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut zoeken",
+                            "keyword_difficulty": 31
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapie",
+                            "keyword_difficulty": 67
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapie aan huis",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapie kosten",
+                            "keyword_difficulty": 44
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapie vergelijken",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapie vergoeding",
+                            "keyword_difficulty": 48
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapie verzekering",
+                            "keyword_difficulty": 63
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapie zwangerschap",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "geriatrische fysiotherapie",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "hernia",
+                            "keyword_difficulty": 17
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "kinderfysiotherapie",
+                            "keyword_difficulty": 24
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "kniepijn",
+                            "keyword_difficulty": 43
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "manuele therapie",
+                            "keyword_difficulty": 4
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "nekpijn",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "neurologie fysiotherapie",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "oncologische fysiotherapie",
+                            "keyword_difficulty": 1
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "physiotherapy amsterdam",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "rugpijn",
+                            "keyword_difficulty": 12
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "schouderpijn",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "shockwave therapie",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "sportblessure",
+                            "keyword_difficulty": 2
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "sportfysiotherapie",
+                            "keyword_difficulty": 27
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "whiplash",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapeut bij mij in de buurt",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "vergoeding fysiotherapie 2025",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "physiotherapist netherlands",
+                            "keyword_difficulty": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

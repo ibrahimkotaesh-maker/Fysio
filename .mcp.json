@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "dataforseo-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "dataforseo-mcp-server"
+      ],
+      "env": {
+        "DATAFORSEO_USERNAME": "ibrahim.kotaesh@gmail.com",
+        "DATAFORSEO_PASSWORD": "1f5669093c20e4c9"
+      }
+    }
+  }
+}

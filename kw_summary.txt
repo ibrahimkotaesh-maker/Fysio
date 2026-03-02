@@ -1,0 +1,136 @@
+﻿
+=== FYSIOTHERAPEUT (50 keywords) ===
+  vacature fysiotherapeut                            SV:  3600  CPC:  1.30  KD:  7  Comp:0.27
+  vacatures fysiotherapeut                           SV:  3600  CPC:  1.30  KD:  4  Comp:0.27
+  fysiotherapeut vacature                            SV:  3600  CPC:  1.30  KD:  7  Comp:0.27
+  opleiding fysiotherapeut                           SV:  2400  CPC:  1.71  KD: 23  Comp:0.65
+  fysiotherapeut opleiding                           SV:  2400  CPC:  1.71  KD: 21  Comp:0.65
+  opleiding voor fysiotherapeut                      SV:  2400  CPC:  1.71  KD: 21  Comp:0.65
+  fysiotherapeut salaris                             SV:  1600  CPC:  0.01  KD:  0  Comp:0.01
+  fysiotherapeut utrecht oost                        SV:  1600  CPC:  1.79  KD:  7  Comp:0.13
+  salaris fysiotherapeut                             SV:  1600  CPC:  0.01  KD:  0  Comp:0.01
+  pensioenfonds fysiotherapeut                       SV:  1300  CPC:  2.76  KD:  0  Comp:0.01
+  fysiotherapeut oosterwolde                         SV:   720  CPC:  1.28  KD:  0  Comp:0.31
+  fysiotherapeut hbo                                 SV:   590  CPC:  1.97  KD: 22  Comp:0.64
+  sport fysiotherapeut                               SV:   590  CPC:  2.33  KD:  0  Comp:0.31
+  cursus fysiotherapeut                              SV:   590  CPC:  3.37  KD: 26  Comp:0.71
+  fysiotherapeut houten                              SV:   590  CPC:  2.50  KD: 17  Comp:0.56
+  fysiotherapeut douma hilversum                     SV:   590  CPC:  0.83  KD:  0  Comp:0.09
+  fysiotherapeut massage                             SV:   480  CPC:  2.01  KD:  0  Comp:0.59
+  wat doet fysiotherapeut                            SV:   480  CPC:  1.57  KD:  0  Comp:0.09
+  fysiotherapeut honden                              SV:   480  CPC:  3.04  KD:  2  Comp:0.18
+  wat doet een fysiotherapeut                        SV:   480  CPC:  1.57  KD:  0  Comp:0.09
+  massage fysiotherapeut                             SV:   480  CPC:  2.01  KD:  0  Comp:0.59
+  cao fysiotherapeut                                 SV:   480  CPC:  0.00  KD:  0  Comp:0.00
+  fysiotherapeut etten leur                          SV:   480  CPC:  2.80  KD: 17  Comp:0.43
+  fysiotherapeut hond                                SV:   480  CPC:  3.04  KD:  2  Comp:0.18
+  fysiotherapeut etten-leur                          SV:   480  CPC:  2.80  KD: 17  Comp:0.43
+  fysiotherapeut dieren                              SV:   390  CPC:  1.41  KD:  8  Comp:0.03
+  fysiotherapeut opleiding deeltijd                  SV:   390  CPC:  1.34  KD:  8  Comp:0.74
+  fysiotherapeut studeren                            SV:   390  CPC:  2.10  KD: 24  Comp:0.67
+  vacature fysiotherapeut groningen                  SV:   390  CPC:  0.72  KD:  0  Comp:0.06
+  vacatures fysiotherapeut groningen                 SV:   390  CPC:  1.54  KD:  0  Comp:0.08
+  opleiding tot fysiotherapeut deeltijd              SV:   390  CPC:  1.34  KD:  0  Comp:0.74
+  fysiotherapeut studie                              SV:   390  CPC:  2.10  KD: 24  Comp:0.67
+  fysiotherapeut vacature groningen                  SV:   390  CPC:  0.72  KD:  0  Comp:0.06
+  deeltijdopleiding fysiotherapeut                   SV:   390  CPC:  1.34  KD:  8  Comp:0.74
+  opleiding fysiotherapeut deeltijd                  SV:   390  CPC:  1.34  KD:  0  Comp:0.74
+  fysiotherapeut musselkanaal                        SV:   320  CPC:  1.67  KD:  0  Comp:0.06
+  wat is een fysiotherapeut                          SV:   320  CPC:  2.78  KD:  0  Comp:0.06
+  hoeveel verdient een fysiotherapeut                SV:   320  CPC:  0.40  KD:  0  Comp:0.01
+  fysiotherapeut veldhoven zuid                      SV:   320  CPC:  0.00  KD:  0  Comp:0.05
+  fysiotherapeut kinderen                            SV:   260  CPC:  3.14  KD: 12  Comp:0.23
+  sporten onder begeleiding fysiotherapeut           SV:   260  CPC:  2.26  KD:  0  Comp:0.32
+  fysiotherapeut zoeken                              SV:   260  CPC:  1.15  KD: 31  Comp:0.23
+  zoek een fysiotherapeut                            SV:   260  CPC:  1.15  KD: 35  Comp:0.23
+  fysiotherapeut sport                               SV:   210  CPC:  2.00  KD:  0  Comp:0.31
+  opleiding fysiotherapeut mbo                       SV:   210  CPC:  1.39  KD:  0  Comp:0.31
+  holistisch fysiotherapeut                          SV:   210  CPC:  1.83  KD:  0  Comp:0.30
+  vacature fysiotherapeut limburg                    SV:   210  CPC:  0.32  KD:  5  Comp:0.09
+  fysiotherapeut opleiding mbo                       SV:   210  CPC:  1.39  KD:  0  Comp:0.31
+  salaris fysiotherapeut ziekenhuis                  SV:   210  CPC:  0.39  KD:  0  Comp:0.01
+  vacatures fysiotherapeut limburg                   SV:   210  CPC:  0.32  KD:  5  Comp:0.09
+
+=== FYSIOTHERAPIE (50 keywords) ===
+  opleidingen fysiotherapie                          SV:  2400  CPC:  1.71  KD: 17  Comp:0.65
+  fysiotherapie opleidingen                          SV:  2400  CPC:  1.71  KD: 17  Comp:0.65
+  opleiding fysiotherapie                            SV:  2400  CPC:  1.71  KD: 23  Comp:0.65
+  opleiding voor fysiotherapie                       SV:  2400  CPC:  1.71  KD: 17  Comp:0.65
+  fysiotherapie opleiding                            SV:  2400  CPC:  1.71  KD: 17  Comp:0.65
+  fysiotherapie salaris                              SV:  1600  CPC:  0.01  KD:  0  Comp:0.01
+  oncologie en fysiotherapie                         SV:  1600  CPC:  1.89  KD:  0  Comp:0.20
+  vacature ziekenhuis fysiotherapie                  SV:  1300  CPC:  0.67  KD:  0  Comp:0.14
+  richard smith fysiotherapie                        SV:  1300  CPC:  0.81  KD:  0  Comp:0.15
+  pensioenfond fysiotherapie                         SV:  1300  CPC:  2.76  KD:  0  Comp:0.01
+  kenamju fysiotherapie                              SV:  1000  CPC:  3.27  KD:  0  Comp:0.07
+  yorbody fysiotherapie rotterdam kralingen          SV:  1000  CPC:  0.00  KD:  0  Comp:0.02
+  fysiotherapie engels                               SV:  1000  CPC:  0.00  KD:  0  Comp:0.00
+  pro-f professionele fysiotherapie                  SV:  1000  CPC:  0.98  KD:  9  Comp:0.09
+  fysiotherapie salland                              SV:  1000  CPC:  3.31  KD:  0  Comp:0.07
+  arcus fysiotherapie                                SV:  1000  CPC:  2.35  KD: 13  Comp:0.05
+  fysiotherapie corpus activum                       SV:   880  CPC:  0.20  KD:  0  Comp:0.04
+  fysiotherapie beatrixpark                          SV:   880  CPC:  0.58  KD:  6  Comp:0.07
+  pro f professionele fysiotherapie                  SV:   880  CPC:  0.85  KD:  9  Comp:0.09
+  fysiotherapie vlambloem                            SV:   880  CPC:  0.92  KD: 12  Comp:0.19
+  fysiotherapie in maastricht                        SV:   880  CPC:  1.88  KD: 21  Comp:0.46
+  sks fysiotherapie                                  SV:   880  CPC:  0.20  KD:  0  Comp:0.22
+  fysiotherapie hoogezand                            SV:   720  CPC:  1.49  KD:  6  Comp:0.20
+  fysio physics fysiotherapie ijsselstein            SV:   720  CPC:  0.21  KD:  0  Comp:0.05
+  fysiotherapie oosterwolde                          SV:   720  CPC:  1.28  KD:  0  Comp:0.31
+  nh fysiotherapie                                   SV:   720  CPC:  0.40  KD:  0  Comp:0.05
+  fysio physics: fysiotherapie ijsselstein           SV:   720  CPC:  0.21  KD:  0  Comp:0.05
+  tim fysiotherapie                                  SV:   720  CPC:  0.38  KD: 10  Comp:0.23
+  pe online fysiotherapie                            SV:   720  CPC:  8.63  KD:  9  Comp:0.03
+  software voor fysiotherapie                        SV:   590  CPC:  9.64  KD:  0  Comp:0.18
+  fysiotherapie mike soyer                           SV:   590  CPC:  0.60  KD:  3  Comp:0.07
+  fysiotherapie nederveluwe                          SV:   590  CPC:  0.00  KD:  4  Comp:0.04
+  cursus fysiotherapie                               SV:   590  CPC:  3.37  KD: 26  Comp:0.71
+  medifit fysiotherapie                              SV:   590  CPC:  0.57  KD: 42  Comp:0.09
+  software fysiotherapie                             SV:   590  CPC:  9.64  KD:  0  Comp:0.18
+  abc fysiotherapie leidsche rijn                    SV:   590  CPC:  3.00  KD:  7  Comp:0.09
+  fmt fysiotherapie                                  SV:   590  CPC:  0.74  KD:  0  Comp:0.05
+  fysiotherapie roerdomplaan                         SV:   590  CPC:  1.67  KD:  0  Comp:0.11
+  fysiotherapie hbo                                  SV:   590  CPC:  1.97  KD: 23  Comp:0.64
+  hbo fysiotherapie                                  SV:   590  CPC:  1.97  KD: 22  Comp:0.64
+  fysiotherapie software                             SV:   590  CPC:  9.64  KD:  0  Comp:0.18
+  fysiotherapie achtse barrier                       SV:   590  CPC:  0.21  KD:  0  Comp:0.41
+  groh fysiotherapie                                 SV:   480  CPC:  1.23  KD:  0  Comp:0.06
+  fysiotherapie mcn centrum amsterdam noord          SV:   480  CPC:  2.86  KD:  0  Comp:0.07
+  fysiotherapie den ommelanden                       SV:   480  CPC:  0.00  KD:  2  Comp:0.03
+  fysiotherapie schiedam paramedisch centrum de nieuwe dam SV:   480  CPC:  0.00  KD:  0  Comp:0.06
+  boot en broersen fysiotherapie                     SV:   480  CPC:  0.00  KD:  0  Comp:0.06
+  het rugcentrum amsterdam fysiotherapie & ergotherapie SV:   480  CPC:  0.00  KD:  0  Comp:0.00
+  massage fysiotherapie                              SV:   480  CPC:  2.01  KD:  0  Comp:0.59
+  orofaciale fysiotherapie in de buurt               SV:   480  CPC:  1.55  KD:  0  Comp:0.39
+
+=== RUGPIJN (30 keywords) ===
+  onderrug rugpijn                                   SV:  3600  CPC:  1.01  KD: 22  Comp:0.34
+  rugpijn in midden van rug                          SV:  1900  CPC:  1.48  KD:  0  Comp:0.04
+  longen en rugpijn                                  SV:  1900  CPC:  0.23  KD:  0  Comp:0.00
+  pijnstiller voor rugpijn                           SV:  1600  CPC:  1.00  KD:  9  Comp:0.72
+  rugpijn hoog                                       SV:  1000  CPC:  1.20  KD:  0  Comp:0.09
+  rugpijn na het slapen                              SV:  1000  CPC:  1.97  KD:  0  Comp:0.47
+  rugpijn en zwanger                                 SV:  1000  CPC:  0.00  KD:  0  Comp:0.02
+  rugpijn en rommelende darmen                       SV:  1000  CPC:  0.35  KD: 15  Comp:0.05
+  rugpijn rechts in het midden                       SV:   880  CPC:  0.58  KD:  0  Comp:0.02
+  wat te doen rugpijn                                SV:   880  CPC:  1.01  KD: 21  Comp:0.50
+  rugpijn wat te doen                                SV:   880  CPC:  1.01  KD: 21  Comp:0.50
+  buik en rugpijn                                    SV:   880  CPC:  0.37  KD:  6  Comp:0.01
+  maagpijn en rugpijn                                SV:   720  CPC:  0.00  KD:  2  Comp:0.00
+  hoge rugpijn tussen schouderbladen                 SV:   720  CPC:  0.59  KD:  0  Comp:0.06
+  rugpijn en maagpijn                                SV:   720  CPC:  0.02  KD:  2  Comp:0.01
+  uitstraling been rugpijn                           SV:   590  CPC:  0.54  KD:  3  Comp:0.18
+  buikpijn en rugpijn                                SV:   590  CPC: 10.28  KD:  3  Comp:0.01
+  rugpijn door stress                                SV:   590  CPC:  0.53  KD:  0  Comp:0.18
+  rugpijn met uitstraling in been                    SV:   590  CPC:  0.54  KD:  0  Comp:0.18
+  oefeningen voor rugpijn                            SV:   480  CPC:  0.27  KD: 21  Comp:0.28
+  oefening rugpijn                                   SV:   480  CPC:  0.27  KD: 15  Comp:0.28
+  het geheim van rugpijn                             SV:   480  CPC:  0.19  KD:  0  Comp:1.00
+  oefening voor rugpijn                              SV:   480  CPC:  0.27  KD: 21  Comp:0.28
+  menstruatie en rugpijn                             SV:   480  CPC:  0.28  KD:  0  Comp:0.06
+  rugpijn voor menstruatie                           SV:   480  CPC:  0.28  KD:  0  Comp:0.06
+  rugpijn oefening                                   SV:   480  CPC:  0.27  KD: 21  Comp:0.28
+  wat te doen tegen rugpijn                          SV:   480  CPC:  1.04  KD: 23  Comp:0.57
+  rugpijn en menstruatie                             SV:   480  CPC:  0.28  KD:  0  Comp:0.06
+  misselijk en rugpijn                               SV:   390  CPC:  5.05  KD:  0  Comp:0.00
+  rugpijn en misselijk                               SV:   390  CPC:  5.05  KD:  0  Comp:0.00

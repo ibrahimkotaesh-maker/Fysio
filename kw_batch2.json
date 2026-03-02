@@ -1,0 +1,581 @@
+﻿{
+    "version": "0.1.20260223",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.7206 sec.",
+    "cost": 0.075,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "03020346-1420-0367-0000-e8fb8834817c",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "3.6186 sec.",
+            "cost": 0.075,
+            "result_count": 20,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_ads",
+                "search_volume",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "search_volume",
+                "se": "google_ads",
+                "keywords": [
+                    "rugpijn",
+                    "kniepijn",
+                    "nekpijn",
+                    "schouderpijn",
+                    "sportblessure",
+                    "rugpijn fysiotherapie",
+                    "kniepijn fysiotherapie",
+                    "nekpijn behandeling",
+                    "schouderpijn behandeling",
+                    "hernia fysiotherapie",
+                    "tennisarm",
+                    "whiplash fysiotherapie",
+                    "bekkenbodem fysiotherapie",
+                    "fysiotherapeut eindhoven",
+                    "fysiotherapeut groningen",
+                    "fysiotherapeut tilburg",
+                    "fysiotherapeut breda",
+                    "fysiotherapeut arnhem",
+                    "fysiotherapeut nijmegen",
+                    "fysiotherapeut haarlem"
+                ],
+                "location_code": 2528,
+                "language_code": "nl"
+            },
+            "result": [
+                {
+                    "keyword": "rugpijn",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "kniepijn",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 23,
+                    "search_volume": 6600,
+                    "low_top_of_page_bid": 0.02,
+                    "high_top_of_page_bid": 0.71,
+                    "cpc": 0.55,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 9,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 8,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 7,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 6,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 5,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 4,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 3,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 2,
+                            "search_volume": 8100
+                        }
+                    ]
+                },
+                {
+                    "keyword": "nekpijn",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": "MEDIUM",
+                    "competition_index": 34,
+                    "search_volume": 4400,
+                    "low_top_of_page_bid": 0.04,
+                    "high_top_of_page_bid": 1.17,
+                    "cpc": 0.83,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 9,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 8,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 7,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 6,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 5,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 4,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 3,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 2,
+                            "search_volume": 4400
+                        }
+                    ]
+                },
+                {
+                    "keyword": "schouderpijn",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 14,
+                    "search_volume": 6600,
+                    "low_top_of_page_bid": 0.09,
+                    "high_top_of_page_bid": 1.02,
+                    "cpc": 0.73,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 9,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 8,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 7,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 6,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 5,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 4,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 3,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 2,
+                            "search_volume": 8100
+                        }
+                    ]
+                },
+                {
+                    "keyword": "sportblessure",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "rugpijn fysiotherapie",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "kniepijn fysiotherapie",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "nekpijn behandeling",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "schouderpijn behandeling",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 5,
+                    "search_volume": 20,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2025,
+                            "month": 9,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2025,
+                            "month": 8,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 7,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 6,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 5,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 4,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 3,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 2,
+                            "search_volume": 10
+                        }
+                    ]
+                },
+                {
+                    "keyword": "hernia fysiotherapie",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "tennisarm",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "whiplash fysiotherapie",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "bekkenbodem fysiotherapie",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "fysiotherapeut eindhoven",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "fysiotherapeut groningen",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "fysiotherapeut tilburg",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "fysiotherapeut breda",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "fysiotherapeut arnhem",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "fysiotherapeut nijmegen",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "fysiotherapeut haarlem",
+                    "spell": null,
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                }
+            ]
+        }
+    ]
+}

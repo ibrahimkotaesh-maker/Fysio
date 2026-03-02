@@ -1,0 +1,663 @@
+﻿{
+    "version": "0.1.20260223",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.1623 sec.",
+    "cost": 0.0104,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "03020406-1420-0399-0000-4b6d746715c0",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.1026 sec.",
+            "cost": 0.0104,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "dataforseo_labs",
+                "google",
+                "keyword_suggestions",
+                "live"
+            ],
+            "data": {
+                "api": "dataforseo_labs",
+                "function": "keyword_suggestions",
+                "se_type": "google",
+                "keyword": "fysiotherapie in de buurt",
+                "location_code": 2528,
+                "language_code": "nl",
+                "limit": 30,
+                "include_seed_keyword": true
+            },
+            "result": [
+                {
+                    "se_type": "google",
+                    "seed_keyword": "fysiotherapie in de buurt",
+                    "seed_keyword_data": {
+                        "se_type": "google",
+                        "keyword": "fysiotherapie in de buurt",
+                        "location_code": 2528,
+                        "language_code": "nl",
+                        "keyword_info": {
+                            "se_type": "google",
+                            "last_updated_time": "2026-01-29 11:53:13 +00:00",
+                            "competition": null,
+                            "competition_level": null,
+                            "cpc": null,
+                            "search_volume": null,
+                            "low_top_of_page_bid": null,
+                            "high_top_of_page_bid": null,
+                            "categories": [
+                                10011,
+                                10085,
+                                10091,
+                                10484,
+                                10511,
+                                10519,
+                                11792
+                            ],
+                            "monthly_searches": [
+                                {
+                                    "year": 2025,
+                                    "month": 12,
+                                    "search_volume": 0
+                                },
+                                {
+                                    "year": 2025,
+                                    "month": 11,
+                                    "search_volume": 0
+                                },
+                                {
+                                    "year": 2025,
+                                    "month": 10,
+                                    "search_volume": 0
+                                },
+                                {
+                                    "year": 2025,
+                                    "month": 9,
+                                    "search_volume": 0
+                                },
+                                {
+                                    "year": 2025,
+                                    "month": 8,
+                                    "search_volume": 0
+                                },
+                                {
+                                    "year": 2025,
+                                    "month": 7,
+                                    "search_volume": 0
+                                },
+                                {
+                                    "year": 2025,
+                                    "month": 6,
+                                    "search_volume": 0
+                                },
+                                {
+                                    "year": 2025,
+                                    "month": 5,
+                                    "search_volume": 0
+                                },
+                                {
+                                    "year": 2025,
+                                    "month": 4,
+                                    "search_volume": 0
+                                },
+                                {
+                                    "year": 2025,
+                                    "month": 3,
+                                    "search_volume": 0
+                                },
+                                {
+                                    "year": 2025,
+                                    "month": 2,
+                                    "search_volume": 0
+                                },
+                                {
+                                    "year": 2025,
+                                    "month": 1,
+                                    "search_volume": 0
+                                }
+                            ],
+                            "search_volume_trend": {
+                                "monthly": 0,
+                                "quarterly": 0,
+                                "yearly": 0
+                            }
+                        },
+                        "keyword_info_normalized_with_bing": null,
+                        "keyword_info_normalized_with_clickstream": null,
+                        "clickstream_keyword_info": null,
+                        "keyword_properties": {
+                            "se_type": "google",
+                            "core_keyword": null,
+                            "synonym_clustering_algorithm": null,
+                            "keyword_difficulty": 34,
+                            "detected_language": "nl",
+                            "is_another_language": false,
+                            "words_count": 4
+                        },
+                        "serp_info": {
+                            "se_type": "google",
+                            "check_url": "https:\/\/www.google.nl\/search?q=fysiotherapie%20in%20de%20buurt&num=100&hl=nl&gl=NL&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCbvkh9vDCcZHEZ8Kvf_OdaGz",
+                            "serp_item_types": [
+                                "local_pack",
+                                "organic",
+                                "people_also_ask",
+                                "related_searches",
+                                "google_reviews"
+                            ],
+                            "se_results_count": 525000,
+                            "last_updated_time": "2024-09-09 01:59:05 +00:00",
+                            "previous_updated_time": "2024-07-30 17:20:19 +00:00"
+                        },
+                        "search_intent_info": {
+                            "se_type": "google",
+                            "main_intent": "informational",
+                            "foreign_intent": null,
+                            "last_updated_time": "2023-03-02 16:16:50 +00:00"
+                        },
+                        "avg_backlinks_info": {
+                            "se_type": "google",
+                            "backlinks": 1619.2,
+                            "dofollow": 1075.6,
+                            "referring_pages": 1118.3,
+                            "referring_domains": 121.8,
+                            "referring_main_domains": 105.5,
+                            "rank": 207.5,
+                            "main_domain_rank": 423.5,
+                            "last_updated_time": "2024-09-08 22:59:05 +00:00"
+                        }
+                    },
+                    "location_code": 2528,
+                    "language_code": "nl",
+                    "total_count": 4,
+                    "items_count": 4,
+                    "offset": 0,
+                    "offset_token": "eyJDdXJyZW50T2Zmc2V0Ijo0LCJSZXF1ZXN0RGF0YSI6eyJrZXl3b3JkIjoiZnlzaW90aGVyYXBpZSBpbiBkZSBidXVydCIsImluY2x1ZGVfc2VlZF9rZXl3b3JkIjp0cnVlLCJmdWxsX21hdGNoIjpmYWxzZSwibG9hZF9zZXJwX2luZm8iOmZhbHNlLCJzZWFyY2hfYWZ0ZXJfdG9rZW4iOm51bGwsImlnbm9yZV9zeW5vbnltcyI6ZmFsc2UsImxhbmd1YWdlIjoibmwiLCJzZWFyY2hfZW5naW5lIjoiZ29vZ2xlIiwibG9jYXRpb24iOjI1MjgsInVzZV9uZXdfY2F0ZWdvcmllcyI6dHJ1ZSwib3JkZXJfYnkiOnsib3JkZXJfZmllbGQiOiJrZXl3b3JkX2luZm8uc2VhcmNoX3ZvbHVtZSIsIm9yZGVyX3R5cGUiOiJEZXNjIiwibmV4dCI6bnVsbH0sImxpbWl0IjozMCwib2Zmc2V0IjowLCJhaWQiOjE0MjA2NiwidXNlX2NhY2hlIjp0cnVlLCJ0YXNrX2lkIjoiMDMwMjA0MDYtMTQyMC0wMzk5LTAwMDAtNGI2ZDc0NjcxNWMwIiwiZmxhZ3MiOm51bGx9LCJSYXdRdWVyeSI6bnVsbCwiSWQiOiI2ZDE2NGY3Ni1hNmRhLTRlMDQtOTQ0Zi0wYzhhMjgyM2UwOTUiLCJTZWFyY2hBZnRlckRhdGEiOlstOTIyMzM3MjAzNjg1NDc3NTgwOCwiZjY3YzI0NTMtYzBjNi02ZjdhLTJmNTktNmRjYmM4ZDIzZTQ5Il19",
+                    "items": [
+                        {
+                            "se_type": "google",
+                            "keyword": "orofaciale fysiotherapie in de buurt",
+                            "location_code": 2528,
+                            "language_code": "nl",
+                            "keyword_info": {
+                                "se_type": "google",
+                                "last_updated_time": "2026-01-22 22:20:19 +00:00",
+                                "competition": 0.39,
+                                "competition_level": "MEDIUM",
+                                "cpc": 1.55,
+                                "search_volume": 480,
+                                "low_top_of_page_bid": 0.12,
+                                "high_top_of_page_bid": 1.44,
+                                "categories": [
+                                    10011,
+                                    10085,
+                                    10091,
+                                    10484,
+                                    10511,
+                                    10519,
+                                    11792
+                                ],
+                                "monthly_searches": [
+                                    {
+                                        "year": 2025,
+                                        "month": 12,
+                                        "search_volume": 390
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 11,
+                                        "search_volume": 590
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 10,
+                                        "search_volume": 590
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 9,
+                                        "search_volume": 590
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 8,
+                                        "search_volume": 480
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 7,
+                                        "search_volume": 590
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 6,
+                                        "search_volume": 480
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 5,
+                                        "search_volume": 390
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 4,
+                                        "search_volume": 480
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 3,
+                                        "search_volume": 480
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 2,
+                                        "search_volume": 480
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 1,
+                                        "search_volume": 590
+                                    }
+                                ],
+                                "search_volume_trend": {
+                                    "monthly": -34,
+                                    "quarterly": -34,
+                                    "yearly": -19
+                                }
+                            },
+                            "keyword_info_normalized_with_bing": null,
+                            "keyword_info_normalized_with_clickstream": null,
+                            "clickstream_keyword_info": null,
+                            "keyword_properties": {
+                                "se_type": "google",
+                                "core_keyword": null,
+                                "synonym_clustering_algorithm": "keyword_metrics",
+                                "keyword_difficulty": 0,
+                                "detected_language": "nl",
+                                "is_another_language": false,
+                                "words_count": 5
+                            },
+                            "serp_info": null,
+                            "avg_backlinks_info": {
+                                "se_type": "google",
+                                "backlinks": 1.6,
+                                "dofollow": 1.4,
+                                "referring_pages": 1.6,
+                                "referring_domains": 1.3,
+                                "referring_main_domains": 1.1,
+                                "rank": 56.7,
+                                "main_domain_rank": 221,
+                                "last_updated_time": "2026-02-25 21:51:19 +00:00"
+                            },
+                            "search_intent_info": {
+                                "se_type": "google",
+                                "main_intent": "navigational",
+                                "foreign_intent": [
+                                    "informational"
+                                ],
+                                "last_updated_time": "2023-07-16 18:34:30 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "kaak fysiotherapie in de buurt",
+                            "location_code": 2528,
+                            "language_code": "nl",
+                            "keyword_info": {
+                                "se_type": "google",
+                                "last_updated_time": "2026-01-25 18:53:04 +00:00",
+                                "competition": 0.41,
+                                "competition_level": "MEDIUM",
+                                "cpc": 1.7,
+                                "search_volume": 390,
+                                "low_top_of_page_bid": 0.36,
+                                "high_top_of_page_bid": 1.75,
+                                "categories": [
+                                    10011,
+                                    10085,
+                                    10091,
+                                    10484,
+                                    10511,
+                                    10519,
+                                    11792
+                                ],
+                                "monthly_searches": [
+                                    {
+                                        "year": 2025,
+                                        "month": 12,
+                                        "search_volume": 320
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 11,
+                                        "search_volume": 320
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 10,
+                                        "search_volume": 390
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 9,
+                                        "search_volume": 390
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 8,
+                                        "search_volume": 390
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 7,
+                                        "search_volume": 390
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 6,
+                                        "search_volume": 320
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 5,
+                                        "search_volume": 320
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 4,
+                                        "search_volume": 590
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 3,
+                                        "search_volume": 480
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 2,
+                                        "search_volume": 390
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 1,
+                                        "search_volume": 390
+                                    }
+                                ],
+                                "search_volume_trend": {
+                                    "monthly": 0,
+                                    "quarterly": -18,
+                                    "yearly": 23
+                                }
+                            },
+                            "keyword_info_normalized_with_bing": null,
+                            "keyword_info_normalized_with_clickstream": null,
+                            "clickstream_keyword_info": null,
+                            "keyword_properties": {
+                                "se_type": "google",
+                                "core_keyword": null,
+                                "synonym_clustering_algorithm": "keyword_metrics",
+                                "keyword_difficulty": 0,
+                                "detected_language": "nl",
+                                "is_another_language": false,
+                                "words_count": 5
+                            },
+                            "serp_info": null,
+                            "avg_backlinks_info": {
+                                "se_type": "google",
+                                "backlinks": 5.4,
+                                "dofollow": 4.8,
+                                "referring_pages": 5,
+                                "referring_domains": 1.2,
+                                "referring_main_domains": 1.1,
+                                "rank": 27.4,
+                                "main_domain_rank": 225,
+                                "last_updated_time": "2026-02-18 17:16:39 +00:00"
+                            },
+                            "search_intent_info": {
+                                "se_type": "google",
+                                "main_intent": "informational",
+                                "foreign_intent": null,
+                                "last_updated_time": "2023-04-14 12:21:30 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapie in de buurt",
+                            "location_code": 2528,
+                            "language_code": "nl",
+                            "keyword_info": {
+                                "se_type": "google",
+                                "last_updated_time": "2026-01-29 11:53:13 +00:00",
+                                "competition": null,
+                                "competition_level": null,
+                                "cpc": null,
+                                "search_volume": null,
+                                "low_top_of_page_bid": null,
+                                "high_top_of_page_bid": null,
+                                "categories": [
+                                    10011,
+                                    10085,
+                                    10091,
+                                    10484,
+                                    10511,
+                                    10519,
+                                    11792
+                                ],
+                                "monthly_searches": [
+                                    {
+                                        "year": 2025,
+                                        "month": 12,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 11,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 10,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 9,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 8,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 7,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 6,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 5,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 4,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 3,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 2,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 1,
+                                        "search_volume": 0
+                                    }
+                                ],
+                                "search_volume_trend": {
+                                    "monthly": 0,
+                                    "quarterly": 0,
+                                    "yearly": 0
+                                }
+                            },
+                            "keyword_info_normalized_with_bing": null,
+                            "keyword_info_normalized_with_clickstream": null,
+                            "clickstream_keyword_info": null,
+                            "keyword_properties": {
+                                "se_type": "google",
+                                "core_keyword": null,
+                                "synonym_clustering_algorithm": null,
+                                "keyword_difficulty": 34,
+                                "detected_language": "nl",
+                                "is_another_language": false,
+                                "words_count": 4
+                            },
+                            "serp_info": null,
+                            "avg_backlinks_info": {
+                                "se_type": "google",
+                                "backlinks": 1619.2,
+                                "dofollow": 1075.6,
+                                "referring_pages": 1118.3,
+                                "referring_domains": 121.8,
+                                "referring_main_domains": 105.5,
+                                "rank": 207.5,
+                                "main_domain_rank": 423.5,
+                                "last_updated_time": "2024-09-08 22:59:05 +00:00"
+                            },
+                            "search_intent_info": {
+                                "se_type": "google",
+                                "main_intent": "informational",
+                                "foreign_intent": null,
+                                "last_updated_time": "2023-03-02 16:16:50 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "fysiotherapie in de buurt nederland",
+                            "location_code": 2528,
+                            "language_code": "nl",
+                            "keyword_info": {
+                                "se_type": "google",
+                                "last_updated_time": "2026-01-25 03:00:46 +00:00",
+                                "competition": null,
+                                "competition_level": null,
+                                "cpc": null,
+                                "search_volume": null,
+                                "low_top_of_page_bid": null,
+                                "high_top_of_page_bid": null,
+                                "categories": [
+                                    10011,
+                                    10091,
+                                    10511,
+                                    10519,
+                                    11792
+                                ],
+                                "monthly_searches": [
+                                    {
+                                        "year": 2025,
+                                        "month": 12,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 11,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 10,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 9,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 8,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 7,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 6,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 5,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 4,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 3,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 2,
+                                        "search_volume": 0
+                                    },
+                                    {
+                                        "year": 2025,
+                                        "month": 1,
+                                        "search_volume": 0
+                                    }
+                                ],
+                                "search_volume_trend": {
+                                    "monthly": 0,
+                                    "quarterly": 0,
+                                    "yearly": 0
+                                }
+                            },
+                            "keyword_info_normalized_with_bing": null,
+                            "keyword_info_normalized_with_clickstream": null,
+                            "clickstream_keyword_info": null,
+                            "keyword_properties": {
+                                "se_type": "google",
+                                "core_keyword": null,
+                                "synonym_clustering_algorithm": null,
+                                "keyword_difficulty": null,
+                                "detected_language": "nl",
+                                "is_another_language": false,
+                                "words_count": 5
+                            },
+                            "serp_info": null,
+                            "avg_backlinks_info": null,
+                            "search_intent_info": {
+                                "se_type": "google",
+                                "main_intent": "commercial",
+                                "foreign_intent": null,
+                                "last_updated_time": "2023-03-02 16:16:50 +00:00"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+﻿{
+    "version": "0.1.20260223",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0 sec.",
+    "cost": 0,
+    "tasks_count": 8,
+    "tasks_error": 8,
+    "tasks": [
+        {
+            "id": "03020414-1420-0265-0000-8878a46c6db2",
+            "status_code": 40204,
+            "status_message": "Access denied. Visit Plans and Subscriptions to activate your subscription and get access to this API: https:\/\/app.dataforseo.com\/backlinks-subscription .",
+            "time": "0 sec.",
+            "cost": 0,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "backlinks",
+                "summary",
+                "live"
+            ],
+            "data": {
+                "api": "backlinks",
+                "function": "summary",
+                "target": "defysiotherapeut.com",
+                "internal_list_limit": 1,
+                "backlinks_status_type": "live"
+            },
+            "result": null
+        },
+        {
+            "id": "03020414-1420-0265-0000-01f3ea38cbe0",
+            "status_code": 40204,
+            "status_message": "Access denied. Visit Plans and Subscriptions to activate your subscription and get access to this API: https:\/\/app.dataforseo.com\/backlinks-subscription .",
+            "time": "0 sec.",
+            "cost": 0,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "backlinks",
+                "summary",
+                "live"
+            ],
+            "data": {
+                "api": "backlinks",
+                "function": "summary",
+                "target": "zorgkaartnederland.nl",
+                "internal_list_limit": 1,
+                "backlinks_status_type": "live"
+            },
+            "result": null
+        },
+        {
+            "id": "03020414-1420-0265-0000-26e32ef6fd16",
+            "status_code": 40204,
+            "status_message": "Access denied. Visit Plans and Subscriptions to activate your subscription and get access to this API: https:\/\/app.dataforseo.com\/backlinks-subscription .",
+            "time": "0 sec.",
+            "cost": 0,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "backlinks",
+                "summary",
+                "live"
+            ],
+            "data": {
+                "api": "backlinks",
+                "function": "summary",
+                "target": "independer.nl",
+                "internal_list_limit": 1,
+                "backlinks_status_type": "live"
+            },
+            "result": null
+        },
+        {
+            "id": "03020414-1420-0265-0000-8a68f0275979",
+            "status_code": 40204,
+            "status_message": "Access denied. Visit Plans and Subscriptions to activate your subscription and get access to this API: https:\/\/app.dataforseo.com\/backlinks-subscription .",
+            "time": "0 sec.",
+            "cost": 0,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "backlinks",
+                "summary",
+                "live"
+            ],
+            "data": {
+                "api": "backlinks",
+                "function": "summary",
+                "target": "hierhebikpijn.nl",
+                "internal_list_limit": 1,
+                "backlinks_status_type": "live"
+            },
+            "result": null
+        },
+        {
+            "id": "03020414-1420-0265-0000-c1a79e2cf98d",
+            "status_code": 40204,
+            "status_message": "Access denied. Visit Plans and Subscriptions to activate your subscription and get access to this API: https:\/\/app.dataforseo.com\/backlinks-subscription .",
+            "time": "0 sec.",
+            "cost": 0,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "backlinks",
+                "summary",
+                "live"
+            ],
+            "data": {
+                "api": "backlinks",
+                "function": "summary",
+                "target": "kngf.nl",
+                "internal_list_limit": 1,
+                "backlinks_status_type": "live"
+            },
+            "result": null
+        },
+        {
+            "id": "03020414-1420-0265-0000-e683bc69bb5e",
+            "status_code": 40204,
+            "status_message": "Access denied. Visit Plans and Subscriptions to activate your subscription and get access to this API: https:\/\/app.dataforseo.com\/backlinks-subscription .",
+            "time": "0 sec.",
+            "cost": 0,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "backlinks",
+                "summary",
+                "live"
+            ],
+            "data": {
+                "api": "backlinks",
+                "function": "summary",
+                "target": "zorgkiezer.nl",
+                "internal_list_limit": 1,
+                "backlinks_status_type": "live"
+            },
+            "result": null
+        },
+        {
+            "id": "03020414-1420-0265-0000-06ad5ebb4354",
+            "status_code": 40204,
+            "status_message": "Access denied. Visit Plans and Subscriptions to activate your subscription and get access to this API: https:\/\/app.dataforseo.com\/backlinks-subscription .",
+            "time": "0 sec.",
+            "cost": 0,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "backlinks",
+                "summary",
+                "live"
+            ],
+            "data": {
+                "api": "backlinks",
+                "function": "summary",
+                "target": "fysiocentrumamsterdam.nl",
+                "internal_list_limit": 1,
+                "backlinks_status_type": "live"
+            },
+            "result": null
+        },
+        {
+            "id": "03020414-1420-0265-0000-ed494dac070c",
+            "status_code": 40204,
+            "status_message": "Access denied. Visit Plans and Subscriptions to activate your subscription and get access to this API: https:\/\/app.dataforseo.com\/backlinks-subscription .",
+            "time": "0 sec.",
+            "cost": 0,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "backlinks",
+                "summary",
+                "live"
+            ],
+            "data": {
+                "api": "backlinks",
+                "function": "summary",
+                "target": "bekkenfysiotherapie.nl",
+                "internal_list_limit": 1,
+                "backlinks_status_type": "live"
+            },
+            "result": null
+        }
+    ]
+}

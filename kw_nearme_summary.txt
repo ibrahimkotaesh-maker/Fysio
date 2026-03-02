@@ -1,0 +1,11 @@
+﻿python :   File "<string>", line 16
+At line:1 char:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (  File "<string>", line 16:Stri 
+   ng) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+    print(f'  Seed SV: {ski.get(" search_volume\)}
+                                ^
+SyntaxError: unterminated string literal (detected at line 16)

@@ -1,0 +1,37 @@
+﻿{
+    "version": "0.1.20260223",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.0490 sec.",
+    "cost": 0,
+    "tasks_count": 1,
+    "tasks_error": 1,
+    "tasks": [
+        {
+            "id": "03020347-1420-0368-0000-8420e3776ec7",
+            "status_code": 40501,
+            "status_message": "Invalid Field: 'keywords'.",
+            "time": "0 sec.",
+            "cost": 0,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_ads",
+                "keywords_for_keywords",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "keywords_for_keywords",
+                "se": "google_ads",
+                "keyword": "fysiotherapeut",
+                "location_code": 2528,
+                "language_code": "nl",
+                "include_seed_keyword": true,
+                "limit": 50
+            },
+            "result": null
+        }
+    ]
+}
