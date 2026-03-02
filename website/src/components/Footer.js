@@ -11,7 +11,7 @@ export default function Footer() {
                             <div className="logo-icon">
                                 <Heart size={18} />
                             </div>
-                            FysioVind
+                            VindFysio
                         </div>
                         <p>
                             Dé plek om snel en eenvoudig de juiste fysiotherapeut bij jou in de buurt te vinden.
@@ -39,7 +39,7 @@ export default function Footer() {
                         </ul>
                     </div>
                     <div>
-                        <h4>Over FysioVind</h4>
+                        <h4>Over VindFysio</h4>
                         <ul>
                             <li><Link href="/over-ons">Over ons</Link></li>
                             <li><Link href="/contact">Contact</Link></li>
@@ -49,7 +49,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="footer-bottom">
-                    © {new Date().getFullYear()} FysioVind.nl — Alle rechten voorbehouden
+                    © {new Date().getFullYear()} VindFysio.nl — Alle rechten voorbehouden
                 </div>
             </div>
         </footer>

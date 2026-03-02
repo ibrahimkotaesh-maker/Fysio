@@ -5,8 +5,11 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-    title: 'Alle steden — FysioVind',
-    description: 'Blader door alle steden in Nederland en vind fysiotherapeuten bij jou in de buurt.',
+    title: 'Alle steden — Fysiotherapeuten per provincie',
+    description: 'Blader door alle 280+ steden en 12 provincies in Nederland. Vind een fysiotherapeut bij jou in de buurt uit 4.200+ praktijken.',
+    alternates: {
+        canonical: 'https://vindfysio.nl/steden',
+    },
 };
 
 async function fetchAllCities() {

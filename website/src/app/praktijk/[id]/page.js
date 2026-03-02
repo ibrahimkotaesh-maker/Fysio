@@ -5,16 +5,73 @@ export async function generateMetadata({ params }) {
     const { id } = await params;
     const { data } = await supabase
         .from('practices')
-        .select('name, city')
+        .select('name, city, address, rating, reviews_count')
         .eq('google_place_id', id)
         .single();
 
     if (!data) return { title: 'Praktijk niet gevonden' };
 
+    const title = `${data.name} — Fysiotherapie ${data.city || ''} | VindFysio`;
+    const description = `${data.name} in ${data.city}${data.rating ? ` ⭐ ${data.rating}/5` : ''}${data.reviews_count ? ` (${data.reviews_count} reviews)` : ''}. Bekijk contactgegevens, openingstijden en beoordelingen.`;
+
     return {
-        title: `${data.name} — Fysiotherapie ${data.city || ''} | FysioVind`,
-        description: `Bekijk het profiel van ${data.name} in ${data.city}. Contactgegevens, beoordelingen en meer.`,
+        title,
+        description,
+        alternates: {
+            canonical: `https://vindfysio.nl/praktijk/${id}`,
+        },
+        openGraph: {
+            title,
+            description,
+            url: `https://vindfysio.nl/praktijk/${id}`,
+            siteName: 'VindFysio',
+            locale: 'nl_NL',
+            type: 'website',
+        },
     };
+}
+
+function PracticeJsonLd({ practice }) {
+    const jsonLd = {
+        '@context': 'https://schema.org',
+        '@type': 'HealthBusiness',
+        name: practice.name,
+        description: `Fysiotherapie praktijk in ${practice.city}`,
+        url: `https://vindfysio.nl/praktijk/${practice.google_place_id}`,
+        ...(practice.address && {
+            address: {
+                '@type': 'PostalAddress',
+                streetAddress: practice.address,
+                addressLocality: practice.city,
+                addressRegion: practice.province,
+                addressCountry: 'NL',
+            }
+        }),
+        ...(practice.phone && { telephone: practice.phone }),
+        ...(practice.website && { sameAs: practice.website }),
+        ...(practice.rating && {
+            aggregateRating: {
+                '@type': 'AggregateRating',
+                ratingValue: practice.rating,
+                reviewCount: practice.reviews_count || 1,
+                bestRating: 5,
+            },
+        }),
+        ...(practice.lat && practice.lng && {
+            geo: {
+                '@type': 'GeoCoordinates',
+                latitude: practice.lat,
+                longitude: practice.lng,
+            },
+        }),
+    };
+
+    return (
+        <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+    );
 }
 
 export default async function PracticePage({ params }) {
@@ -46,5 +103,10 @@ export default async function PracticePage({ params }) {
         .order('rating', { ascending: false })
         .limit(3);
 
-    return <ProfileClient practice={practice} similar={similar || []} />;
+    return (
+        <>
+            <PracticeJsonLd practice={practice} />
+            <ProfileClient practice={practice} similar={similar || []} />
+        </>
+    );
 }

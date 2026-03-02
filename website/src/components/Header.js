@@ -11,7 +11,7 @@ export default function Header() {
                     <div className="logo-icon">
                         <Heart size={18} />
                     </div>
-                    FysioVind
+                    VindFysio
                 </Link>
                 <nav className="header-nav">
                     <Link href="/zoeken">Zoeken</Link>
