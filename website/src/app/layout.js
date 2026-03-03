@@ -9,6 +9,9 @@ export const metadata = {
   description: "Zoek en vergelijk fysiotherapeuten bij jou in de buurt. 4.200+ praktijken in 280+ steden door heel Nederland.",
   keywords: "fysiotherapeut, fysiotherapie, fysiotherapeut zoeken, fysiotherapeut bij mij in de buurt, behandeling, Nederland",
   authors: [{ name: 'VindFysio' }],
+  verification: {
+    google: 'nGR-SoZL7j9DAAKHGrbwnOq0_H4-D5eO1zFES719mkQ',
+  },
   alternates: {
     canonical: '/',
   },
