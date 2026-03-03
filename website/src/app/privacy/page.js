@@ -2,8 +2,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-    title: 'Privacybeleid — FysioVind',
-    description: 'Lees het privacybeleid van FysioVind.nl.',
+    title: 'Privacybeleid — VindFysio',
+    description: 'Lees het privacybeleid van VindFysio.nl.',
 };
 
 export default function Privacy() {
@@ -17,7 +17,7 @@ export default function Privacy() {
                     <div style={{ display: 'flex', flexDirection: 'column', gap: 24, fontSize: '0.938rem', lineHeight: 1.7, color: 'var(--text-secondary)' }}>
                         <div>
                             <h3 style={{ color: 'var(--text)', marginBottom: 8 }}>1. Gegevensverzameling</h3>
-                            <p>FysioVind verzamelt alleen openbaar beschikbare informatie over fysiotherapiepraktijken in Nederland, zoals naam, adres, telefoonnummer, website en beoordelingen uit openbare bronnen.</p>
+                            <p>VindFysio verzamelt alleen openbaar beschikbare informatie over fysiotherapiepraktijken in Nederland, zoals naam, adres, telefoonnummer, website en beoordelingen uit openbare bronnen.</p>
                         </div>
                         <div>
                             <h3 style={{ color: 'var(--text)', marginBottom: 8 }}>2. Gebruik van gegevens</h3>
@@ -29,7 +29,7 @@ export default function Privacy() {
                         </div>
                         <div>
                             <h3 style={{ color: 'var(--text)', marginBottom: 8 }}>4. Contact</h3>
-                            <p>Heeft u vragen over ons privacybeleid of wilt u dat uw gegevens worden verwijderd? Neem dan contact met ons op via info@fysiovind.nl.</p>
+                            <p>Heeft u vragen over ons privacybeleid of wilt u dat uw gegevens worden verwijderd? Neem dan contact met ons op via info@vindfysio.nl.</p>
                         </div>
                     </div>
                 </div>

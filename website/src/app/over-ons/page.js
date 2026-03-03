@@ -3,8 +3,8 @@ import Footer from '@/components/Footer';
 import { Heart, Users, Target, Shield } from 'lucide-react';
 
 export const metadata = {
-    title: 'Over ons — FysioVind',
-    description: 'Leer meer over FysioVind en onze missie om fysiotherapie toegankelijker te maken in Nederland.',
+    title: 'Over ons — VindFysio',
+    description: 'Leer meer over VindFysio en onze missie om fysiotherapie toegankelijker te maken in Nederland.',
 };
 
 export default function OverOns() {
@@ -13,9 +13,9 @@ export default function OverOns() {
             <Header />
             <div className="section">
                 <div className="container" style={{ maxWidth: 720 }}>
-                    <h1 style={{ marginBottom: 16 }}>Over FysioVind</h1>
+                    <h1 style={{ marginBottom: 16 }}>Over VindFysio</h1>
                     <p style={{ color: 'var(--text-secondary)', fontSize: '1.125rem', marginBottom: 48, lineHeight: 1.7 }}>
-                        FysioVind is dé plek om snel en eenvoudig een fysiotherapeut bij jou in de buurt te vinden.
+                        VindFysio is dé plek om snel en eenvoudig een fysiotherapeut bij jou in de buurt te vinden.
                         Wij geloven dat iedereen snel toegang moet hebben tot goede fysiotherapeutische zorg.
                     </p>
 
@@ -47,11 +47,11 @@ export default function OverOns() {
                         <h3 style={{ marginBottom: 8 }}>In cijfers</h3>
                         <div className="stats-bar" style={{ justifyContent: 'flex-start', gap: 40, padding: '16px 0 0' }}>
                             <div className="stat">
-                                <div className="stat-number" style={{ fontSize: '1.5rem' }}>1.945</div>
+                                <div className="stat-number" style={{ fontSize: '1.5rem' }}>4.200+</div>
                                 <div className="stat-label">Praktijken</div>
                             </div>
                             <div className="stat">
-                                <div className="stat-number" style={{ fontSize: '1.5rem' }}>190</div>
+                                <div className="stat-number" style={{ fontSize: '1.5rem' }}>280+</div>
                                 <div className="stat-label">Steden</div>
                             </div>
                             <div className="stat">

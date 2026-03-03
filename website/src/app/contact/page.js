@@ -3,8 +3,8 @@ import Footer from '@/components/Footer';
 import { Mail, MapPin, MessageSquare } from 'lucide-react';
 
 export const metadata = {
-    title: 'Contact — FysioVind',
-    description: 'Neem contact op met FysioVind. Heb je vragen, feedback of wil je een praktijk aanmelden?',
+    title: 'Contact — VindFysio',
+    description: 'Neem contact op met VindFysio. Heb je vragen, feedback of wil je een praktijk aanmelden?',
 };
 
 export default function Contact() {
@@ -24,7 +24,7 @@ export default function Contact() {
                                 <Mail size={24} />
                             </div>
                             <h3 style={{ marginBottom: 8 }}>E-mail</h3>
-                            <a href="mailto:info@fysiovind.nl" style={{ color: 'var(--primary)' }}>info@fysiovind.nl</a>
+                            <a href="mailto:info@vindfysio.nl" style={{ color: 'var(--primary)' }}>info@vindfysio.nl</a>
                         </div>
                         <div className="card" style={{ textAlign: 'center', padding: 32 }}>
                             <div className="step-icon" style={{ margin: '0 auto 16px' }}>
