@@ -26,6 +26,18 @@ export default function ProfileClient({ practice, similar }) {
                 </div>
             </div>
 
+            {/* Hero Image */}
+            {practice.image_url && (
+                <div className="practice-hero-image">
+                    <img
+                        src={practice.image_url}
+                        alt={`${practice.name} - Fysiotherapie`}
+                        onError={(e) => { e.target.parentElement.style.display = 'none'; }}
+                    />
+                    <div className="practice-hero-overlay" />
+                </div>
+            )}
+
             {/* Profile Header */}
             <div className="profile-header">
                 <div className="container">
