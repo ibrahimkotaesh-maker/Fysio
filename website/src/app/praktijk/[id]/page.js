@@ -5,14 +5,15 @@ export async function generateMetadata({ params }) {
     const { id } = await params;
     const { data } = await supabase
         .from('practices')
-        .select('name, city, address, rating, reviews_count')
+        .select('name, city, address, rating, reviews_count, specializations')
         .eq('google_place_id', id)
         .single();
 
     if (!data) return { title: 'Praktijk niet gevonden' };
 
     const title = `${data.name} — Fysiotherapie ${data.city || ''}`;
-    const description = `${data.name} in ${data.city}${data.rating ? ` ⭐ ${data.rating}/5` : ''}${data.reviews_count ? ` (${data.reviews_count} reviews)` : ''}. Bekijk contactgegevens, openingstijden en beoordelingen.`;
+    const specText = data.specializations?.length > 0 ? ` Specialisaties: ${data.specializations.slice(0, 3).join(', ')}.` : '';
+    const description = `${data.name} in ${data.city}${data.rating ? ` ⭐ ${data.rating}/5` : ''}${data.reviews_count ? ` (${data.reviews_count} reviews)` : ''}.${specText} Bekijk contactgegevens, openingstijden en beoordelingen.`;
 
     return {
         title,
@@ -36,7 +37,11 @@ function PracticeJsonLd({ practice }) {
         '@context': 'https://schema.org',
         '@type': 'HealthBusiness',
         name: practice.name,
-        description: `Fysiotherapie praktijk in ${practice.city}`,
+        description: practice.description || `Fysiotherapie praktijk in ${practice.city}`,
+        ...(practice.specializations?.length > 0 && {
+            medicalSpecialty: practice.specializations,
+            keywords: practice.specializations.join(', '),
+        }),
         url: `https://vindfysio.nl/praktijk/${practice.google_place_id}`,
         ...(practice.address && {
             address: {

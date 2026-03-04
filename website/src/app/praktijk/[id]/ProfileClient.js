@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { MapPin, Phone, Globe, Clock, Star, ArrowLeft, ExternalLink, Navigation } from 'lucide-react';
+import { MapPin, Phone, Globe, Clock, Star, ArrowLeft, ExternalLink, Navigation, CheckCircle, Shield, Tag } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import StarRating from '@/components/StarRating';
@@ -44,6 +44,16 @@ export default function ProfileClient({ practice, similar }) {
                                     <span className="tag tag-primary">{practice.province}</span>
                                 )}
                             </div>
+                            {/* Specializations */}
+                            {practice.specializations && practice.specializations.length > 0 && (
+                                <div className="specializations-tags" style={{ display: 'flex', flexWrap: 'wrap', gap: 6, marginTop: 12 }}>
+                                    {practice.specializations.map(spec => (
+                                        <span key={spec} className="spec-tag">
+                                            {spec}
+                                        </span>
+                                    ))}
+                                </div>
+                            )}
                         </div>
                         <div className="profile-cta-bar">
                             {practice.phone && (
@@ -74,6 +84,16 @@ export default function ProfileClient({ practice, similar }) {
                 <div className="profile-body">
                     {/* Main Content */}
                     <div>
+                        {/* Description */}
+                        {practice.description && (
+                            <div className="profile-section">
+                                <h2>Over deze praktijk</h2>
+                                <p style={{ lineHeight: 1.7, color: 'var(--text-secondary)', fontSize: '0.95rem' }}>
+                                    {practice.description}
+                                </p>
+                            </div>
+                        )}
+
                         {/* Contact Info */}
                         <div className="profile-section">
                             <h2>Contactgegevens</h2>
@@ -185,6 +205,22 @@ export default function ProfileClient({ practice, similar }) {
                                     <span style={{ color: 'var(--text-secondary)' }}>Provincie</span>
                                     <span style={{ fontWeight: 600 }}>{practice.province || '-'}</span>
                                 </div>
+                                {practice.no_referral_needed && (
+                                    <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.875rem' }}>
+                                        <span style={{ color: 'var(--text-secondary)' }}>Verwijzing</span>
+                                        <span style={{ fontWeight: 600, color: '#059669', display: 'flex', alignItems: 'center', gap: 4 }}>
+                                            <CheckCircle size={14} /> Niet nodig
+                                        </span>
+                                    </div>
+                                )}
+                                {practice.all_insurances && (
+                                    <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.875rem' }}>
+                                        <span style={{ color: 'var(--text-secondary)' }}>Verzekering</span>
+                                        <span style={{ fontWeight: 600, color: '#059669', display: 'flex', alignItems: 'center', gap: 4 }}>
+                                            <Shield size={14} /> Alle verzekeraars
+                                        </span>
+                                    </div>
+                                )}
                             </div>
                         </div>
 
