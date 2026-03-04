@@ -21,11 +21,11 @@ export default function Footer() {
                     <div>
                         <h4>Populaire steden</h4>
                         <ul>
-                            <li><Link href="/zoeken?city=Amsterdam">Amsterdam</Link></li>
-                            <li><Link href="/zoeken?city=Rotterdam">Rotterdam</Link></li>
-                            <li><Link href="/zoeken?city=Den+Haag">Den Haag</Link></li>
-                            <li><Link href="/zoeken?city=Utrecht">Utrecht</Link></li>
-                            <li><Link href="/zoeken?city=Eindhoven">Eindhoven</Link></li>
+                            <li><Link href="/stad/amsterdam">Amsterdam</Link></li>
+                            <li><Link href="/stad/rotterdam">Rotterdam</Link></li>
+                            <li><Link href="/stad/den-haag">Den Haag</Link></li>
+                            <li><Link href="/stad/utrecht">Utrecht</Link></li>
+                            <li><Link href="/stad/eindhoven">Eindhoven</Link></li>
                         </ul>
                     </div>
                     <div>

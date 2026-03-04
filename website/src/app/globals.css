@@ -1146,3 +1146,162 @@ p {
   animation: shimmer 1.5s infinite;
   border-radius: var(--radius-sm);
 }
+
+/* ── City Page ─────────────────────────────────────────────── */
+.city-hero {
+  background: linear-gradient(135deg, var(--primary-lighter) 0%, var(--bg) 60%, var(--accent-light) 100%);
+  padding: 32px 0 40px;
+  border-bottom: 1px solid var(--border);
+}
+
+.city-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.813rem;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+}
+
+.city-breadcrumb a {
+  color: var(--text-secondary);
+  transition: color var(--duration) var(--ease);
+}
+
+.city-breadcrumb a:hover {
+  color: var(--primary);
+}
+
+.city-breadcrumb .current {
+  color: var(--text);
+  font-weight: 500;
+}
+
+.city-hero h1 {
+  font-size: 2.25rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 12px;
+}
+
+.city-highlight {
+  color: var(--primary);
+}
+
+.city-subtitle {
+  font-size: 1.063rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  max-width: 640px;
+  margin-bottom: 24px;
+}
+
+.city-stats {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.city-stat {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 20px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  color: var(--primary);
+}
+
+.city-stat div {
+  display: flex;
+  flex-direction: column;
+}
+
+.city-stat strong {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.2;
+}
+
+.city-stat span {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+/* ── FAQ ───────────────────────────────────────────────────── */
+.faq-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 800px;
+}
+
+.faq-item {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  transition: border-color var(--duration) var(--ease);
+}
+
+.faq-item[open] {
+  border-color: var(--primary);
+}
+
+.faq-question {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  font-weight: 600;
+  font-size: 0.938rem;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+  transition: color var(--duration) var(--ease);
+}
+
+.faq-question::-webkit-details-marker {
+  display: none;
+}
+
+.faq-question:hover {
+  color: var(--primary);
+}
+
+.faq-chevron {
+  flex-shrink: 0;
+  color: var(--text-muted);
+  transition: transform var(--duration) var(--ease);
+}
+
+.faq-item[open] .faq-chevron {
+  transform: rotate(180deg);
+  color: var(--primary);
+}
+
+.faq-answer {
+  padding: 0 20px 16px;
+  font-size: 0.875rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
+
+/* ── City Page Responsive ──────────────────────────────────── */
+@media (max-width: 768px) {
+  .city-hero h1 {
+    font-size: 1.625rem;
+  }
+
+  .city-stats {
+    gap: 12px;
+  }
+
+  .city-stat {
+    padding: 10px 14px;
+    flex: 1;
+    min-width: 140px;
+  }
+}

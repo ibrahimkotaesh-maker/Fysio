@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { Search, MapPin, Star, Phone, ArrowRight, Users, Building2, Map } from 'lucide-react';
+import { toSlug } from '@/lib/slug';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
@@ -123,7 +124,7 @@ export default function HomePage() {
             {POPULAR_CITIES.map((city) => (
               <Link
                 key={city.name}
-                href={`/zoeken?city=${encodeURIComponent(city.name)}`}
+                href={`/stad/${toSlug(city.name)}`}
                 className="city-card"
               >
                 <div className="city-icon">

@@ -1,4 +1,5 @@
 import { supabase } from '@/lib/supabase';
+import { toSlug } from '@/lib/slug';
 
 export default async function sitemap() {
     const baseUrl = 'https://vindfysio.nl';
@@ -57,7 +58,7 @@ export default async function sitemap() {
 
     const uniqueCities = [...new Set(allCities.map((r) => r.city))];
     const cityPages = uniqueCities.map((city) => ({
-        url: `${baseUrl}/zoeken?city=${encodeURIComponent(city)}`,
+        url: `${baseUrl}/stad/${toSlug(city)}`,
         lastModified: new Date(),
         changeFrequency: 'weekly',
         priority: 0.8,

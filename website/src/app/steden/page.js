@@ -1,4 +1,5 @@
 import { supabase } from '@/lib/supabase';
+import { toSlug } from '@/lib/slug';
 import Link from 'next/link';
 import { MapPin } from 'lucide-react';
 import Header from '@/components/Header';
@@ -87,7 +88,7 @@ export default async function StedenPage() {
                                 {citiesInProvince.map(([city, count]) => (
                                     <Link
                                         key={city}
-                                        href={`/zoeken?city=${encodeURIComponent(city)}`}
+                                        href={`/stad/${toSlug(city)}`}
                                         className="city-card"
                                         style={{ padding: 16 }}
                                     >
