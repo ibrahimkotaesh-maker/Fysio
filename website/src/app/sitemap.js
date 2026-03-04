@@ -1,5 +1,6 @@
 import { supabase } from '@/lib/supabase';
 import { toSlug } from '@/lib/slug';
+import { articles } from '@/lib/articles';
 
 export default async function sitemap() {
     const baseUrl = 'https://vindfysio.nl';
@@ -64,5 +65,16 @@ export default async function sitemap() {
         priority: 0.8,
     }));
 
-    return [...staticPages, ...practicePages, ...cityPages];
+    // Blog pages
+    const blogPages = [
+        { url: `${baseUrl}/blog`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
+        ...articles.map(a => ({
+            url: `${baseUrl}/blog/${a.slug}`,
+            lastModified: new Date(a.updatedAt),
+            changeFrequency: 'monthly',
+            priority: 0.7,
+        })),
+    ];
+
+    return [...staticPages, ...practicePages, ...cityPages, ...blogPages];
 }

@@ -16,6 +16,7 @@ export default function Header() {
                 <nav className="header-nav">
                     <Link href="/zoeken">Zoeken</Link>
                     <Link href="/steden">Steden</Link>
+                    <Link href="/blog">Blog</Link>
                     <Link href="/over-ons">Over ons</Link>
                     <Link href="/contact">Contact</Link>
                 </nav>

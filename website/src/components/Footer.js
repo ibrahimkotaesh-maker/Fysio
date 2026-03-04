@@ -41,6 +41,7 @@ export default function Footer() {
                     <div>
                         <h4>Over VindFysio</h4>
                         <ul>
+                            <li><Link href="/blog">Blog</Link></li>
                             <li><Link href="/over-ons">Over ons</Link></li>
                             <li><Link href="/contact">Contact</Link></li>
                             <li><Link href="/privacy">Privacybeleid</Link></li>
