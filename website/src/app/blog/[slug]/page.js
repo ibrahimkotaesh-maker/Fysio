@@ -1,6 +1,5 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import Image from 'next/image';
 import { ArrowLeft, Clock, Calendar, ChevronRight } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -237,12 +236,9 @@ export default async function ArticlePage({ params }) {
 
                 {/* Hero Image */}
                 <div style={{ borderRadius: 12, overflow: 'hidden', marginBottom: 32, aspectRatio: '16/9', position: 'relative' }}>
-                    <Image
+                    <img
                         src={`/images/blog/${article.slug}.png`}
                         alt={article.title}
-                        width={760}
-                        height={428}
-                        priority
                         style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: 12 }}
                     />
                 </div>

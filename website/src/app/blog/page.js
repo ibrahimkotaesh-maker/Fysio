@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import { FileText, Clock, ArrowRight } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -60,11 +59,10 @@ export default function BlogPage() {
                                     className="blog-card"
                                 >
                                     <div className="blog-card-image">
-                                        <Image
+                                        <img
                                             src={`/images/blog/${article.slug}.png`}
                                             alt={article.title}
-                                            width={600}
-                                            height={340}
+                                            loading="lazy"
                                             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                                         />
                                     </div>
