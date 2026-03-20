@@ -345,6 +345,11 @@ export default async function CityPage({ params }) {
                     <div className="results-grid">
                         {practices.map((p) => (
                             <Link key={p.id} href={`/praktijk/${p.google_place_id}`} className="practice-card">
+                                {p.image_url && (
+                                    <div className="practice-card-thumb">
+                                        <img src={p.image_url} alt={p.name} loading="lazy" />
+                                    </div>
+                                )}
                                 <div className="practice-info">
                                     <h3 className="practice-name">{p.name}</h3>
                                     <div className="practice-address">
@@ -353,8 +358,22 @@ export default async function CityPage({ params }) {
                                         {p.postal_code && ` · ${p.postal_code}`}
                                     </div>
                                     {p.rating && (
-                                        <div style={{ marginBottom: 12 }}>
+                                        <div style={{ marginBottom: 8 }}>
                                             <StarRating rating={p.rating} count={p.reviews_count} />
+                                        </div>
+                                    )}
+                                    {p.specializations && p.specializations.length > 0 && (
+                                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4, marginBottom: 8 }}>
+                                            {p.specializations.slice(0, 3).map(spec => (
+                                                <span key={spec} className="spec-tag" style={{ fontSize: '0.65rem', padding: '2px 8px' }}>
+                                                    {spec}
+                                                </span>
+                                            ))}
+                                            {p.specializations.length > 3 && (
+                                                <span className="spec-tag" style={{ fontSize: '0.65rem', padding: '2px 8px', background: '#F3F4F6', color: '#6B7280', borderColor: '#E5E7EB' }}>
+                                                    +{p.specializations.length - 3}
+                                                </span>
+                                            )}
                                         </div>
                                     )}
                                     <div className="practice-tags">
@@ -389,6 +408,50 @@ export default async function CityPage({ params }) {
                 avgRating={avgRating}
                 province={province}
             />
+
+            {/* Blog Articles — Internal Linking for SEO */}
+            <section className="section">
+                <div className="container">
+                    <h2 style={{ marginBottom: 8 }}>Meer over fysiotherapie</h2>
+                    <p style={{ color: 'var(--text-secondary)', marginBottom: 24, fontSize: '0.938rem' }}>
+                        Handige artikelen voor als je een fysiotherapeut zoekt in {cityName}
+                    </p>
+                    <div className="city-grid" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))' }}>
+                        <Link href="/blog/wat-kost-fysiotherapie" className="city-card" style={{ textDecoration: 'none' }}>
+                            <div className="city-icon" style={{ background: 'rgba(var(--primary-rgb), 0.1)' }}>
+                                💰
+                            </div>
+                            <div>
+                                <div className="city-name">Wat kost fysiotherapie?</div>
+                                <div className="city-count" style={{ fontSize: '0.75rem' }}>Tarieven, vergoedingen en eigen risico</div>
+                            </div>
+                        </Link>
+                        <Link href="/blog/fysiotherapie-vergoeding-zorgverzekering" className="city-card" style={{ textDecoration: 'none' }}>
+                            <div className="city-icon" style={{ background: 'rgba(var(--primary-rgb), 0.1)' }}>
+                                🛡️
+                            </div>
+                            <div>
+                                <div className="city-name">Fysiotherapie vergoeding</div>
+                                <div className="city-count" style={{ fontSize: '0.75rem' }}>Wat vergoedt jouw zorgverzekering?</div>
+                            </div>
+                        </Link>
+                        <Link href="/blog/fysiotherapie-zonder-verwijzing" className="city-card" style={{ textDecoration: 'none' }}>
+                            <div className="city-icon" style={{ background: 'rgba(var(--primary-rgb), 0.1)' }}>
+                                ✅
+                            </div>
+                            <div>
+                                <div className="city-name">Zonder verwijzing naar de fysio</div>
+                                <div className="city-count" style={{ fontSize: '0.75rem' }}>Directe toegang uitgelegd</div>
+                            </div>
+                        </Link>
+                    </div>
+                    <div style={{ textAlign: 'center', marginTop: 16 }}>
+                        <Link href="/blog" style={{ color: 'var(--primary)', fontSize: '0.875rem' }}>
+                            Bekijk alle artikelen →
+                        </Link>
+                    </div>
+                </div>
+            </section>
 
             {/* Nearby Cities */}
             {nearbyCities.length > 0 && (
