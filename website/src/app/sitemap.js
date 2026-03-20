@@ -76,5 +76,27 @@ export default async function sitemap() {
         })),
     ];
 
-    return [...staticPages, ...practicePages, ...cityPages, ...blogPages];
+    // Specialization pages
+    const SPECIALIZATIONS = [
+        'manuele therapie', 'revalidatie', 'dry needling', 'sportfysiotherapie',
+        'ademhalingstherapie', 'medical taping', 'neurologische fysiotherapie',
+        'echografie', 'schouder specialist', 'lymfedrainage', 'kinderfysiotherapie',
+        'shockwave therapie', 'fysiotherapie aan huis', 'bekkenfysiotherapie',
+        'geriatrie fysiotherapie', 'personal training', 'psychosomatische fysiotherapie',
+        'fysiofitness', 'oncologische fysiotherapie', 'triggerpoint therapie',
+        'knie specialist', 'kaakfysiotherapie', 'looptraining', 'bindweefsel therapie',
+        'rugpijn specialist', 'BFR training', 'nekpijn specialist',
+    ];
+
+    const specPages = [
+        { url: `${baseUrl}/specialisaties`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
+        ...SPECIALIZATIONS.map(spec => ({
+            url: `${baseUrl}/specialisatie/${toSlug(spec)}`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.7,
+        })),
+    ];
+
+    return [...staticPages, ...practicePages, ...cityPages, ...blogPages, ...specPages];
 }

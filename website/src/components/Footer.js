@@ -31,11 +31,12 @@ export default function Footer() {
                     <div>
                         <h4>Specialisaties</h4>
                         <ul>
-                            <li><Link href="/zoeken?q=sportfysiotherapie">Sportfysiotherapie</Link></li>
-                            <li><Link href="/zoeken?q=manuele+therapie">Manuele therapie</Link></li>
-                            <li><Link href="/zoeken?q=bekkenfysiotherapie">Bekkenfysiotherapie</Link></li>
-                            <li><Link href="/zoeken?q=kinderfysiotherapie">Kinderfysiotherapie</Link></li>
-                            <li><Link href="/zoeken?q=revalidatie">Revalidatie</Link></li>
+                            <li><Link href="/specialisatie/sportfysiotherapie">Sportfysiotherapie</Link></li>
+                            <li><Link href="/specialisatie/manuele-therapie">Manuele therapie</Link></li>
+                            <li><Link href="/specialisatie/bekkenfysiotherapie">Bekkenfysiotherapie</Link></li>
+                            <li><Link href="/specialisatie/kinderfysiotherapie">Kinderfysiotherapie</Link></li>
+                            <li><Link href="/specialisatie/revalidatie">Revalidatie</Link></li>
+                            <li><Link href="/specialisaties">Alle specialisaties →</Link></li>
                         </ul>
                     </div>
                     <div>
