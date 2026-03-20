@@ -18,6 +18,7 @@ export default function Header() {
                     <Link href="/steden">Steden</Link>
                     <Link href="/specialisaties">Specialisaties</Link>
                     <Link href="/blog">Blog</Link>
+                    <Link href="/aandoeningen">Aandoeningen</Link>
                     <Link href="/over-ons">Over ons</Link>
                     <Link href="/contact">Contact</Link>
                 </nav>

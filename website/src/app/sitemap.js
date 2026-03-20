@@ -1,6 +1,7 @@
 import { supabase } from '@/lib/supabase';
 import { toSlug } from '@/lib/slug';
 import { articles } from '@/lib/articles';
+import { aandoeningen } from '@/lib/aandoeningen';
 
 export default async function sitemap() {
     const baseUrl = 'https://vindfysio.nl';
@@ -98,5 +99,16 @@ export default async function sitemap() {
         })),
     ];
 
-    return [...staticPages, ...practicePages, ...cityPages, ...blogPages, ...specPages];
+    // Aandoeningen pages
+    const aandoeningPages = [
+        { url: `${baseUrl}/aandoeningen`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
+        ...aandoeningen.map(a => ({
+            url: `${baseUrl}/aandoening/${a.slug}`,
+            lastModified: new Date(a.updatedAt || new Date()),
+            changeFrequency: 'monthly',
+            priority: 0.7,
+        })),
+    ];
+
+    return [...staticPages, ...practicePages, ...cityPages, ...blogPages, ...specPages, ...aandoeningPages];
 }
