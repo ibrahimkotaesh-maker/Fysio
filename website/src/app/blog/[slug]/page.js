@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ArrowLeft, Clock, Calendar, ChevronRight } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -29,6 +30,14 @@ export async function generateMetadata({ params }) {
             type: 'article',
             publishedTime: article.publishedAt,
             modifiedTime: article.updatedAt,
+            images: [
+                {
+                    url: `https://vindfysio.nl/images/blog/${slug}.png`,
+                    width: 1200,
+                    height: 630,
+                    alt: article.title,
+                },
+            ],
         },
     };
 }
@@ -39,6 +48,7 @@ function ArticleJsonLd({ article }) {
         '@type': 'Article',
         headline: article.title,
         description: article.description,
+        image: `https://vindfysio.nl/images/blog/${article.slug}.png`,
         datePublished: article.publishedAt,
         dateModified: article.updatedAt,
         author: {
@@ -223,6 +233,18 @@ export default async function ArticlePage({ params }) {
                     <p style={{ marginTop: 12, fontSize: '1.1rem', color: 'var(--text-secondary)', lineHeight: 1.6 }}>
                         {article.description}
                     </p>
+                </div>
+
+                {/* Hero Image */}
+                <div style={{ borderRadius: 12, overflow: 'hidden', marginBottom: 32, aspectRatio: '16/9', position: 'relative' }}>
+                    <Image
+                        src={`/images/blog/${article.slug}.png`}
+                        alt={article.title}
+                        width={760}
+                        height={428}
+                        priority
+                        style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: 12 }}
+                    />
                 </div>
 
                 {/* Article Content */}

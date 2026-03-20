@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { FileText, Clock, ArrowRight } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -58,17 +59,28 @@ export default function BlogPage() {
                                     href={`/blog/${article.slug}`}
                                     className="blog-card"
                                 >
-                                    <div className="blog-card-category">{article.category}</div>
-                                    <h3 className="blog-card-title">{article.title}</h3>
-                                    <p className="blog-card-description">{article.description}</p>
-                                    <div className="blog-card-footer">
-                                        <span className="blog-card-meta">
-                                            <Clock size={14} />
-                                            {article.readTime} leestijd
-                                        </span>
-                                        <span className="blog-card-link">
-                                            Lees meer <ArrowRight size={14} />
-                                        </span>
+                                    <div className="blog-card-image">
+                                        <Image
+                                            src={`/images/blog/${article.slug}.png`}
+                                            alt={article.title}
+                                            width={600}
+                                            height={340}
+                                            style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                                        />
+                                    </div>
+                                    <div className="blog-card-body">
+                                        <div className="blog-card-category">{article.category}</div>
+                                        <h3 className="blog-card-title">{article.title}</h3>
+                                        <p className="blog-card-description">{article.description}</p>
+                                        <div className="blog-card-footer">
+                                            <span className="blog-card-meta">
+                                                <Clock size={14} />
+                                                {article.readTime} leestijd
+                                            </span>
+                                            <span className="blog-card-link">
+                                                Lees meer <ArrowRight size={14} />
+                                            </span>
+                                        </div>
                                     </div>
                                 </Link>
                             ))}
