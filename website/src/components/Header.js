@@ -1,16 +1,19 @@
 'use client';
 
 import Link from 'next/link';
-import { Heart } from 'lucide-react';
 
 export default function Header() {
     return (
         <header className="header">
             <div className="container header-inner">
                 <Link href="/" className="logo">
-                    <div className="logo-icon">
-                        <Heart size={18} />
-                    </div>
+                    <img
+                        src="/logo.svg"
+                        alt="VindFysio Logo"
+                        width={32}
+                        height={32}
+                        className="logo-img"
+                    />
                     VindFysio
                 </Link>
                 <nav className="header-nav">

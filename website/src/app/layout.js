@@ -12,6 +12,10 @@ export const metadata = {
   verification: {
     google: 'nGR-SoZL7j9DAAKHGrbwnOq0_H4-D5eO1zFES719mkQ',
   },
+  icons: {
+    icon: '/icon.svg',
+    apple: '/apple-icon.png',
+  },
   alternates: {
     canonical: '/',
   },
