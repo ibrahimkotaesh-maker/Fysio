@@ -266,18 +266,34 @@ export default async function CityPage({ params }) {
         .sort((a, b) => b[1] - a[1])
         .slice(0, 8);
 
+    // City hero images – only major cities have one
+    const cityImagesAvailable = [
+        'amsterdam', 'rotterdam', 'den-haag', 'utrecht', 'eindhoven',
+        'groningen', 'tilburg', 'almere', 'breda', 'nijmegen',
+        'arnhem', 'haarlem', 'leiden', 'maastricht', 's-hertogenbosch',
+    ];
+    const hasCityImage = cityImagesAvailable.includes(slug);
+
     return (
         <>
             <CityJsonLd cityName={cityName} practices={practices} slug={slug} province={province} />
             <Header />
 
             {/* City Hero Header */}
-            <section className="city-hero">
+            <section
+                className="city-hero"
+                style={hasCityImage ? {
+                    backgroundImage: `linear-gradient(to bottom, rgba(0,0,0,0.55), rgba(0,0,0,0.7)), url(/images/cities/${slug}.png)`,
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                    color: '#fff',
+                } : {}}
+            >
                 <div className="container">
-                    <div className="city-breadcrumb">
-                        <Link href="/">Home</Link>
+                    <div className="city-breadcrumb" style={hasCityImage ? { color: 'rgba(255,255,255,0.8)' } : {}}>
+                        <Link href="/" style={hasCityImage ? { color: 'rgba(255,255,255,0.9)' } : {}}>Home</Link>
                         <span>/</span>
-                        <Link href="/steden">Steden</Link>
+                        <Link href="/steden" style={hasCityImage ? { color: 'rgba(255,255,255,0.9)' } : {}}>Steden</Link>
                         <span>/</span>
                         {province && (
                             <>
@@ -287,17 +303,17 @@ export default async function CityPage({ params }) {
                         )}
                         <span className="current">{cityName}</span>
                     </div>
-                    <h1>
-                        Fysiotherapeut in <span className="city-highlight">{cityName}</span>
+                    <h1 style={hasCityImage ? { color: '#fff' } : {}}>
+                        Fysiotherapeut in <span className="city-highlight" style={hasCityImage ? { color: '#6ee7b7' } : {}}>{cityName}</span>
                     </h1>
-                    <p className="city-subtitle">
+                    <p className="city-subtitle" style={hasCityImage ? { color: 'rgba(255,255,255,0.9)' } : {}}>
                         Vergelijk {totalPractices} fysiotherapiepraktijken in {cityName}
                         {province && `, ${province}`}. Bekijk beoordelingen en neem direct contact op.
                     </p>
 
                     {/* Stats */}
-                    <div className="city-stats">
-                        <div className="city-stat">
+                    <div className="city-stats" style={hasCityImage ? { color: '#fff' } : {}}>
+                        <div className="city-stat" style={hasCityImage ? { background: 'rgba(255,255,255,0.15)', backdropFilter: 'blur(8px)', border: '1px solid rgba(255,255,255,0.2)' } : {}}>
                             <Building2 size={20} />
                             <div>
                                 <strong>{totalPractices}</strong>
@@ -305,7 +321,7 @@ export default async function CityPage({ params }) {
                             </div>
                         </div>
                         {avgRating && (
-                            <div className="city-stat">
+                            <div className="city-stat" style={hasCityImage ? { background: 'rgba(255,255,255,0.15)', backdropFilter: 'blur(8px)', border: '1px solid rgba(255,255,255,0.2)' } : {}}>
                                 <Star size={20} />
                                 <div>
                                     <strong>{avgRating}</strong>
@@ -313,7 +329,7 @@ export default async function CityPage({ params }) {
                                 </div>
                             </div>
                         )}
-                        <div className="city-stat">
+                        <div className="city-stat" style={hasCityImage ? { background: 'rgba(255,255,255,0.15)', backdropFilter: 'blur(8px)', border: '1px solid rgba(255,255,255,0.2)' } : {}}>
                             <MapPin size={20} />
                             <div>
                                 <strong>{province || 'NL'}</strong>
@@ -321,7 +337,7 @@ export default async function CityPage({ params }) {
                             </div>
                         </div>
                         {totalReviews > 0 && (
-                            <div className="city-stat">
+                            <div className="city-stat" style={hasCityImage ? { background: 'rgba(255,255,255,0.15)', backdropFilter: 'blur(8px)', border: '1px solid rgba(255,255,255,0.2)' } : {}}>
                                 <Star size={20} />
                                 <div>
                                     <strong>{totalReviews.toLocaleString('nl-NL')}</strong>
