@@ -1,4 +1,5 @@
 import { supabase } from '@/lib/supabase';
+import { practiceToSlug } from '@/lib/practiceSlug';
 import { toSlug } from '@/lib/slug';
 import Link from 'next/link';
 import { MapPin, Star, Phone, Globe, ArrowRight, ChevronDown, Activity, Users, Search } from 'lucide-react';
@@ -295,7 +296,7 @@ function SpecJsonLd({ specName, meta, practices, slug }) {
             item: {
                 '@type': 'HealthBusiness',
                 name: p.name,
-                url: `https://vindfysio.nl/praktijk/${p.google_place_id}`,
+                url: `https://vindfysio.nl/praktijk/${practiceToSlug(p.name, p.city)}`,
                 ...(p.address && {
                     address: {
                         '@type': 'PostalAddress',
@@ -558,7 +559,7 @@ export default async function SpecializationPage({ params }) {
 
                     <div className="results-grid">
                         {practices.map((p) => (
-                            <Link key={p.id} href={`/praktijk/${p.google_place_id}`} className="practice-card">
+                            <Link key={p.id} href={`/praktijk/${practiceToSlug(p.name, p.city)}`} className="practice-card">
                                 {p.image_url && (
                                     <div className="practice-card-thumb">
                                         <img src={p.image_url} alt={p.name} loading="lazy" />

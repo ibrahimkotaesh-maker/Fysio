@@ -3,9 +3,10 @@
 import Link from 'next/link';
 import { MapPin, Phone, Globe, ArrowRight } from 'lucide-react';
 import StarRating from './StarRating';
+import { practiceToSlug } from '@/lib/practiceSlug';
 
 export default function PracticeCard({ practice }) {
-    const slug = practice.google_place_id;
+    const slug = practiceToSlug(practice.name, practice.city);
 
     return (
         <Link href={`/praktijk/${slug}`} className="practice-card">
