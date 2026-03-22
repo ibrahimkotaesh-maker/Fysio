@@ -1107,6 +1107,535 @@ De relatie met je fysiotherapeut is belangrijk:
 Op VindFysio vergelijk je eenvoudig fysiotherapeuten op basis van specialisatie, reviews en locatie. Zoek nu een fysiotherapeut bij jou in de buurt.
         `.trim(),
     },
+    {
+        slug: 'schouderklachten-oorzaken-behandeling',
+        title: 'Schouderklachten: oorzaken, diagnose en fysiotherapie behandeling',
+        metaTitle: 'Schouderklachten — Oorzaken, Diagnose & Behandeling | VindFysio',
+        description: 'Last van je schouder? Ontdek de 5 meest voorkomende schouderklachten, hoe een fysiotherapeut ze behandelt en welke oefeningen helpen. Met wetenschappelijke onderbouwing.',
+        category: 'Aandoeningen',
+        readTime: '8 min',
+        publishedAt: '2025-03-22',
+        updatedAt: '2025-03-22',
+        content: `
+## Schouderklachten: meer dan alleen "pijn in de schouder"
+
+De schouder is het meest beweeglijke gewricht van je lichaam — en daarmee ook een van de kwetsbaarste. Volgens het RIVM heeft **jaarlijks zo'n 20% van de Nederlandse bevolking** last van schouderklachten. Na rugpijn en nekpijn is schouderpijn de derde meest voorkomende reden om naar de fysiotherapeut te gaan.
+
+Het goede nieuws? De grote meerderheid van schouderklachten reageert uitstekend op fysiotherapie, zonder dat een operatie nodig is.
+
+## Hoe zit de schouder in elkaar?
+
+Je schouder bestaat uit drie botten (sleutelbeen, schouderblad en bovenarm), vier gewrichten en een groep van vier kleine spieren die samen de **rotator cuff** vormen. Deze spieren houden de schouderkop in de kom en zorgen voor gecontroleerde bewegingen.
+
+Doordat de schouder zo beweeglijk is, hangt de stabiliteit grotendeels af van spieren, pezen en banden — en niet van de botstructuur. Dat maakt de schouder gevoelig voor overbelasting en blessures.
+
+## De 5 meest voorkomende schouderklachten
+
+### 1. Subacromiaal pijnsyndroom (impingement)
+
+De meest gediagnosticeerde schouderklacht in de huisartsenpraktijk. Bij impingement raken structuren onder het schouderdak (acromion) bekneld bij het heffen van de arm.
+
+- **Wie:** Mensen die veel boven hun hoofd werken of sporten (schilders, zwemmers, tennissers)
+- **Herkenning:** Pijn bij het optillen van de arm tussen 60° en 120° — de zogenoemde *painful arc*
+- **Cijfer:** Verantwoordelijk voor zo'n 44-65% van alle schouderpijnklachten (Diercks et al., British Journal of Sports Medicine)
+
+### 2. Rotator cuff tendinopathie
+
+De pezen van de rotator cuff raken overbelast of slijten geleidelijk. Niet altijd pijnlijk — uit MRI-onderzoek blijkt dat **bij 40% van de 50-plussers** afwijkingen aan de rotator cuff zichtbaar zijn, zonder dat zij klachten hebben (Yamamoto et al., Journal of Shoulder and Elbow Surgery).
+
+- **Symptomen:** Diep zeurende pijn in de schouder, erger 's nachts en bij liggen op de aangedane zijde
+- **Behandeling:** Gerichte krachttraining is bewezen de meest effectieve behandeling
+
+### 3. Slijmbeursontstekking (bursitis)
+
+De slijmbeursjes in de schouder fungeren als "kussens" tussen pezen en bot. Bij overbelasting of herhaalde irritatie kunnen deze ontsteken.
+
+- **Symptomen:** Scherpe pijn bij bepaalde bewegingen, warmte of zwelling rond de schouder
+- **Behandeling:** Belastingmanagement, oefentherapie, soms een corticosteroïd-injectie als aanvulling
+
+### 4. Frozen shoulder (adhesieve capsulitis)
+
+Het kapsel rond het schoudergewricht trekt samen, waardoor de schouder langzaam steeds stijver wordt. We hebben hier een apart artikel over — zie ons stuk over frozen shoulder.
+
+### 5. AC-gewricht artrose
+
+Slijtage van het gewricht bovenop de schouder, waar sleutelbeen en schouderblad samenkomen. Komt regelmatig voor bij mensen boven de 50 en bij sporters met veel overhead-belasting.
+
+- **Symptomen:** Pijn bovenop de schouder, verergerd bij het arm over het lichaam brengen
+- **Behandeling:** Oefentherapie, belastingsadvies, soms een injectie
+
+## Hoe onderzoekt een fysiotherapeut je schouder?
+
+Een goed onderzoek duurt ongeveer 30-45 minuten en bestaat uit:
+
+1. **Gesprek (anamnese)** — Wanneer begon het? Wat verergert het? Hoe beïnvloedt het je dagelijks leven?
+2. **Observatie** — Houding, schouderbladpositie, spieratrofie
+3. **Beweeglijkheidsonderzoek** — Actief en passief: hoever kun je je arm bewegen?
+4. **Krachttest** — Specifieke tests per spier van de rotator cuff
+5. **Speciale testen** — Neer-test, Hawkins-test, empty can test en meer
+
+> **Belangrijk:** Een goede fysiotherapeut kijkt niet alleen naar je schouder. Vaak speelt de nek, borstwervelkolom of het schouderblad een rol in het probleem.
+
+## Behandeling: wat werkt?
+
+De KNGF-richtlijn Schouderklachten (2023) is duidelijk: **oefentherapie is de basis van de behandeling**.
+
+| Behandeling | Wetenschappelijk bewijs |
+|---|---|
+| Oefentherapie (kracht + mobiliteit) | Sterk bewijs — eerste keuze |
+| Manuele therapie (mobilisatie) | Matig bewijs — als aanvulling |
+| Educatie en advies | Sterk bewijs — essentieel |
+| Shockwave therapie | Beperkt bewijs bij calcificaties |
+| Corticosteroïd injectie | Kortetermijn pijnverlichting |
+| Operatie | Meestal pas na 6-12 maanden conservatief |
+
+### 3 oefeningen bij schouderklachten
+
+**1. Isometrische external rotatie**
+Sta naast een muur. Druk met de buitenkant van je vuist tegen de muur, zonder dat je arm beweegt. Houd 10 seconden aan. Herhaal 10x. Effectief bij pijnverlichting in de acute fase.
+
+**2. Scapula squeeze**
+Zit recht op een stoel. Trek je schouderbladen naar elkaar toe en iets naar beneden. Houd 5 seconden vast, laat los. Herhaal 15x. Verbetert de schouderbladcontrole.
+
+**3. Zijwaartse arm heffen met weerstand**
+Pak een licht weerstandsbandje. Hef je arm zijwaarts tot 90 graden. Houd 3 seconden, laat langzaam zakken. Herhaal 12x, 3 sets. Bouw de weerstand geleidelijk op.
+
+## Wanneer naar de huisarts of specialist?
+
+Ga naar je huisarts bij:
+- Aanhoudende schouderpijn **na 6 weken** fysiotherapie zonder verbetering
+- **Plotseling krachtsverlies** in de arm
+- Een val op de schouder met **forse zwelling**
+- Schouderpijn samen met **koorts** (kan wijzen op infectie)
+
+## Zoek een schouder specialist
+
+Op VindFysio vind je fysiotherapeuten gespecialiseerd in schouderklachten. Filter op "schouder specialist" en vergelijk praktijken bij jou in de buurt.
+        `.trim(),
+    },
+    {
+        slug: 'ischias-symptomen-behandeling',
+        title: 'Ischias (ischiaspijn): symptomen, oorzaken en behandeling',
+        metaTitle: 'Ischias — Symptomen, Oorzaken & Behandeling | VindFysio',
+        description: 'Uitstralende pijn in je been? Lees wat ischias is, waardoor het ontstaat, hoe het verschilt van een hernia, en welke behandelingen het meest effectief zijn.',
+        category: 'Aandoeningen',
+        readTime: '8 min',
+        publishedAt: '2025-03-22',
+        updatedAt: '2025-03-22',
+        content: `
+## Wat is ischias?
+
+Ischias — ook wel ischiaspijn of ischialgie genoemd — is pijn die uitstraalt langs de nervus ischiadicus, de langste en dikste zenuw van je lichaam. Deze zenuw loopt vanuit je onderrug via je bil en de achterkant van je been helemaal tot in je voet.
+
+Ischias is eigenlijk geen diagnose op zichzelf, maar een **symptoom**. De uitstralende pijn wordt veroorzaakt doordat de zenuw ergens geïrriteerd of bekneld raakt. De vraag is altijd: *wát drukt er precies op de zenuw?*
+
+## Symptomen: hoe herken je ischias?
+
+Het typische patroon van ischiaspijn:
+
+- **Eenzijdige pijn** die vanuit de onderrug of bil naar het been uitstraalt
+- De pijn volgt een **specifiek traject** — via de achterzijde van het bovenbeen, soms tot in de kuit of voet
+- Een **brandend, schietend of elektrisch** gevoel langs het been
+- **Tintelingen of gevoelloosheid** in het been of de voet
+- Verergering bij **zitten, hoesten, niezen of persen**
+- In ernstige gevallen: **krachtsverlies** — je kunt je voet of tenen moeilijker bewegen
+
+> **Rode vlaggen — direct naar de huisarts of spoedeisende hulp:**
+> - Verlies van controle over blaas of darmen (plassen of ontlasting)
+> - Gevoelloosheid in het zadel-gebied (rond de billen en de binnenkant van de bovenbenen)
+> - Progressief krachtsverlies in beide benen
+> Dit kan wijzen op een cauda equina syndroom, een zeldzame maar ernstige aandoening die direct behandeld moet worden.
+
+## Oorzaken: waardoor ontstaat ischias?
+
+| Oorzaak | Hoe vaak? | Toelichting |
+|---|---|---|
+| Hernia (HNP) | ±90% | De tussenwervelschijf drukt op de zenuwwortel |
+| Spinale stenose | ±5% | Vernauwing van het wervelkanaal, vooral bij 60+ |
+| Piriformis syndroom | ±3% | De piriformis-spier in de bil klemt de zenuw af |
+| Spondylolisthesis | ±1% | Een wervel verschuift ten opzichte van de onderliggende |
+| Zwangerschap | Variabel | De groeiende baarmoeder kan druk geven op de zenuw |
+
+### Ischias vs hernia: wat is het verschil?
+
+Dit is een veelgestelde vraag. Kort gezegd:
+- **Hernia** = de structurele afwijking (de uitpuiling van de tussenwervelschijf)
+- **Ischias** = het symptoom (de uitstralende pijn in het been)
+
+Een hernia *kan* ischias veroorzaken — maar niet iedere hernia geeft ischias, en niet alle ischias wordt door een hernia veroorzaakt.
+
+Uit MRI-onderzoek bleek dat **bij 30-40% van de mensen zonder klachten** een hernia zichtbaar is op de scan (Jensen et al., The New England Journal of Medicine). Een hernia op een MRI hoeft dus niet de oorzaak van je pijn te zijn.
+
+## Behandeling: wat werkt?
+
+### Fysiotherapie — eerste keuze
+
+Volgens de NHG-Standaard Lumbosacraal Radiculair Syndroom is conservatieve behandeling (dus niet opereren) de eerste keuze. En dat is niet zonder reden: **onderzoek uit The Lancet toont aan dat bij 85-90% van de patiënten de klachten binnen 6-12 weken verminderen zonder operatie**.
+
+De fysiotherapeut zet een combinatie in van:
+
+1. **McKenzie-methode** — Gericht bewegen in de richting die de zenuw ontlast. Je leert welke houdingen en bewegingen de pijn verminderen
+2. **Zenuwmobilisatie (neurodynamica)** — Voorzichtige glijbewegingen van de zenuw om adhesies te verminderen en het zenuwweefsel soepeler te maken
+3. **Core-stabiliteit** — Gerichte oefeningen voor de diepe buik- en rugspieren om de wervelkolom te stabiliseren
+4. **Pijneducatie** — Begrijpen hoe pijn werkt helpt aantoonbaar bij het herstel. Pijn is niet altijd gelijk aan schade
+5. **Houdingsadvies** — Praktische tips voor zitten, staan, tillen en slapen
+
+### Wanneer is een operatie nodig?
+
+Een operatie wordt overwogen als:
+- De klachten **na 6-8 weken** niet verbeteren ondanks adequate fysiotherapie
+- Er sprake is van **toenemend krachtsverlies**
+- Er **cauda equina symptomen** zijn (spoedoperatie)
+
+> **Wist je dat:** In een groot Nederlands onderzoek (het Sciatica Trial) bleken patiënten die werden geopereerd wél sneller pijnvrij te zijn, maar na 1 jaar was er **geen verschil** meer met patiënten die conservatief waren behandeld (Peul et al., NEJM, 2007).
+
+## 3 oefeningen bij ischias
+
+**Voorzichtigheid:** Start pas met oefeningen na overleg met je fysiotherapeut. De juiste oefening hangt af van de onderliggende oorzaak.
+
+**1. McKenzie extensie (rugstrekking)**
+Ga op je buik liggen. Duw je bovenlichaam omhoog op je handen, houd je bekken op de grond. Houd 5-10 seconden. Herhaal 10x, meerdere keren per dag. Helpt als de pijn bij deze beweging *centraliseert* (dichter bij de rug komt).
+
+**2. Zenuw-gliding (sciatic nerve flossing)**
+Zit op de rand van een stoel. Strek één been naar voren terwijl je je hoofd naar achteren kantelt. Buig vervolgens de knie terwijl je het hoofd naar voren kantelt. Wissel langzaam 15x. Een soepele beweging, geen force.
+
+**3. Piriformis stretch**
+Ga op je rug liggen. Leg de enkel van het aangedane been op de knie van het andere been. Trek de onderknie naar je borst. Houd 30 seconden vast. Herhaal 3x.
+
+## Hoe lang duurt herstel?
+
+| Situatie | Verwachte hersteltijd |
+|---|---|
+| Milde ischias | 2-4 weken |
+| Hernia-gerelateerde ischias | 6-12 weken |
+| Na operatie | 3-6 maanden |
+| Chronische ischiaspijn | Individueel traject |
+
+## Vind een specialist
+
+Op VindFysio zoek je een fysiotherapeut of manueel therapeut met ervaring in ischias en rugklachten. Filter op specialisatie en vergelijk reviews.
+        `.trim(),
+    },
+    {
+        slug: 'fysiotherapie-oefeningen-thuis',
+        title: '10 fysiotherapie oefeningen die je thuis kunt doen',
+        metaTitle: '10 Fysiotherapie Oefeningen voor Thuis — Rug, Nek, Knie & Meer',
+        description: 'De 10 beste fysiotherapie oefeningen voor thuis: voor je rug, nek, schouder, knie en heup. Per oefening uitleg, herhalingen en veelgemaakte fouten.',
+        category: 'Oefeningen',
+        readTime: '9 min',
+        publishedAt: '2025-03-22',
+        updatedAt: '2025-03-22',
+        content: `
+## Waarom thuisoefeningen zo belangrijk zijn
+
+Regelmatig bewegen is misschien wel het krachtigste medicijn dat we kennen. De Wereldgezondheidsorganisatie (WHO) adviseert volwassenen om **minimaal 150 minuten per week** matig intensief te bewegen. Toch haalt meer dan de helft van de Nederlanders deze norm niet.
+
+Als je bij een fysiotherapeut in behandeling bent, besteed je daar gemiddeld 30 minuten per week. De overige 167,5 uur bepalen mede hoe snel je herstelt. Thuisoefeningen zijn daarom geen optie — ze zijn de kern van je behandeling.
+
+Hieronder vind je 10 oefeningen die fysiotherapeuten het vaakst meegeven, ingedeeld per lichaamsdeel. Ze zijn geschikt voor de meeste mensen, maar bij acute klachten of onzekerheid: raadpleeg altijd eerst een professional.
+
+## Rug (3 oefeningen)
+
+### 1. Bekken kantelen (pelvic tilt)
+**Doel:** Activatie diepe buikspieren, verlichting lage rugpijn
+
+Ga op je rug liggen met gebogen knieën en voeten op de grond. Kantel je bekken zodat je onderrug plat op de grond drukt. Span je buikspieren licht aan. Houd 5 seconden vast, ontspan. Herhaal 15x.
+
+**Veelgemaakte fout:** Je billen optillen van de grond. Dit is géén bridge — alleen je bekken kantelt.
+
+### 2. Cat-cow stretch
+**Doel:** Mobiliteit van de wervelkolom, vermindering stijfheid
+
+Ga op handen en knieën zitten, handen onder de schouders, knieën onder de heupen. Wissel tussen een bolle rug (kat: kijk naar je navel) en een holle rug (koe: kijk naar het plafond). Beweeg langzaam, 10 herhalingen.
+
+**Veelgemaakte fout:** Te snel bewegen. Neem 3-4 seconden per beweging. Voel elke wervel meebewegen.
+
+### 3. Dead bug
+**Doel:** Core-stabiliteit zonder rugbelasting
+
+Ga op je rug liggen. Hef beide armen naar het plafond en buig je heupen en knieën tot 90 graden. Strek nu je rechterarm achter je hoofd en je linkerbeen naar voren uit, zonder dat je onderrug van de grond loskomt. Kom terug naar de startpositie, wissel van kant. 10x per zijde.
+
+**Veelgemaakte fout:** De onderrug laten meebewegen. Als je voelt dat je rug van de vloer loskomt, maak de beweging dan kleiner.
+
+## Nek (2 oefeningen)
+
+### 4. Chin tucks
+**Doel:** Versterking diepe nekbuigers, verbetering nekhouding
+
+Zit recht of sta tegen een muur. Trek je kin recht naar achteren, alsof je een dubbele kin wilt maken. Je hoofd gaat niet voorover of achterover — het schuift als een la naar achteren. Houd 5 seconden vast. Herhaal 10-15x.
+
+Dit is de nummer-1 oefening die fysiotherapeuten voorschrijven bij nekklachten. Simpel, maar bewezen effectief.
+
+**Veelgemaakte fout:** Het hoofd naar beneden kantelen in plaats van horizontaal naar achteren te schuiven.
+
+### 5. Bovenrug extensie over een handdoek
+**Doel:** Mobiliteit borstwervelkolom, houding verbeteren
+
+Rol een handdoek op tot een stevige rol. Ga op je rug liggen met de handdoek dwars achter je bovenrug (ter hoogte van de schouderbladen). Leg je handen achter je hoofd. Laat je bovenrug langzaam achterover zakken over de handdoekrol. Houd 5 seconden, kom terug. Herhaal 10x.
+
+## Schouder (2 oefeningen)
+
+### 6. External rotatie met weerstandsband
+**Doel:** Versterking rotator cuff
+
+Sta met gebogen ellebogen langs je lichaam, een weerstandsband om beide handen. Draai je onderarmen naar buiten terwijl je ellebogen langs je zij blijven. Houd 3 seconden, laat langzaam terug. 3 sets van 12 herhalingen.
+
+**Veelgemaakte fout:** De ellebogen van je zij laten komen. Klem eventueel een opgerolde handdoek tussen elleboog en lichaam.
+
+### 7. Scapula wall slides
+**Doel:** Schouderblad controle en coördinatie
+
+Sta met je rug, hoofd en armen tegen de muur. Schuif je armen langzaam omhoog langs de muur (als een "armen omhoog" gebaar) en weer terug. Houd contact met de muur. 3 sets van 10.
+
+## Knie (2 oefeningen)
+
+### 8. Straight leg raise (SLR)
+**Doel:** Versterking quadriceps zonder kniebelasting
+
+Ga op je rug liggen met één been gebogen. Span de bovenbeenspier van het gestrekte been aan en til het been langzaam 20-30 cm omhoog. Houd 5 seconden. Laat langzaam zakken. 3 sets van 10 per been.
+
+Ideaal na een knieoperatie of bij knieartrose — de knie hoeft niet te buigen.
+
+### 9. Step-ups
+**Doel:** Functionele kniesterkte en balans
+
+Gebruik een trap of stabiele verhoging van 15-20 cm. Stap met je aangedane been op de trede, duw je omhoog tot je staat, en stap gecontroleerd weer af. 3 sets van 12 per been.
+
+**Veelgemaakte fout:** Te hoog beginnen. Start laag en bouw op.
+
+## Heup (1 oefening)
+
+### 10. Clamshell
+**Doel:** Versterking gluteus medius, heupstabiliteit
+
+Ga op je zij liggen met gebogen knieën (45°) en voeten op elkaar. Open je bovenste knie als een schelp, houd je voeten bij elkaar. Houd 3 seconden bovenaan. Laat langzaam zakken. 3 sets van 15. Voeg een weerstandsband toe voor meer uitdaging.
+
+Essentieel bij knieklachten, heuppijn en bekkeninstabiliteit. De gluteus medius is de "vergeten" spier die fysiotherapeuten haast altijd trainen.
+
+## Hoeveel en hoe vaak?
+
+De algemene vuistregel voor therapeutische oefeningen:
+
+| Parameter | Richtlijn |
+|---|---|
+| Frequentie | Minimaal 3-5x per week |
+| Duur | 15-20 minuten per sessie |
+| Intensiteit | Matige inspanning — je mag het voelen, maar geen scherpe pijn |
+| Progressie | Verhoog pas de zwaarte als de huidige oefening makkelijk voelt |
+
+## Wanneer zijn thuisoefeningen niet genoeg?
+
+Oefeningen alleen lossen niet alles op. Ga naar een fysiotherapeut als:
+- De pijn **toeneemt** ondanks oefeningen
+- Je **niet zeker** bent welke oefeningen geschikt zijn
+- Je klachten **langer dan 2-3 weken** aanhouden
+- Je recent een **operatie of blessure** hebt gehad
+
+## Zoek een fysiotherapeut
+
+Op VindFysio vind je fysiotherapeuten bij jou in de buurt die je een persoonlijk oefenprogramma kunnen opstellen, afgestemd op jouw klacht.
+        `.trim(),
+    },
+    {
+        slug: 'houdingsklachten-ergonomie-werkplek',
+        title: 'Houdingsklachten door thuiswerken: ergonomie tips van de fysiotherapeut',
+        metaTitle: 'Houdingsklachten & Thuiswerken — Ergonomie Tips | VindFysio',
+        description: 'Rugpijn door thuiswerken? RSI door beeldschermwerk? Leer hoe je werkplek goed inricht, welke klachten het vaakst voorkomen en wanneer je naar de fysio moet.',
+        category: 'Preventie',
+        readTime: '7 min',
+        publishedAt: '2025-03-22',
+        updatedAt: '2025-03-22',
+        content: `
+## Thuiswerken: de nieuwe rugpijn-epidemie
+
+Sinds de coronapandemie werkt **bijna de helft van de Nederlandse werknemers** regelmatig thuis, aldus het CBS. Dat levert flexibiliteit op, maar ook een forse stijging in bewegingsklachten. Uit onderzoek van het Erasmus MC bleek dat **thuiswerkers 1,5 tot 2 keer vaker nek- en rugklachten rapporteerden** dan voor de pandemie.
+
+De oorzaak is vaak simpel: thuis is de werkplek zelden zo goed ingericht als op kantoor. Een keukenstoel, de bank, of een te lage tafel — het lijkt even handig, maar na maanden betaal je de rekening met je rug.
+
+## De 5 meest voorkomende klachten door beeldschermwerk
+
+### 1. Lage rugpijn
+De klassiekere. Langdurig zitten in dezelfde houding leidt tot overbelasting van de tussenwervelschijven en spieren in de onderrug. Volgens het RIVM kost rugpijn het Nederlandse bedrijfsleven **jaarlijks meer dan 2,6 miljard euro** aan ziekteverzuim.
+
+### 2. Nekpijn en spanning
+Een beeldscherm dat te hoog, te laag of te ver weg staat dwingt je nek in een onnatuurlijke houding. Na uren buig je onbewust voorover — de zogeheten *forward head posture* — wat de belasting op je nek **met een factor 2 tot 3 kan verhogen** (Hansraj, Surgical Technology International, 2014).
+
+### 3. Schouderspanning
+Schouders die langzaam omhoogkruipen richting je oren terwijl je werkt. Zonder dat je het merkt span je je bovenste trapeziusspier aan. Het resultaat: stijve schouders, drukpunten en hoofdpijn.
+
+### 4. RSI (Repetitive Strain Injury)
+Een verzamelnaam voor overbelastingsklachten aan arm, pols of hand. Typisch voor mensen die veel typen en muizen. In Nederland meldt **zo'n 25-30% van de beeldschermwerkers** lichte tot matige RSI-klachten (TNO Arbeid).
+
+### 5. Spanningshoofdpijn
+Vaak een gevolg van punten 2 en 3: spanning in nek en schouders veroorzaakt hoofdpijn die vanuit de achterkant van het hoofd naar voren uitstraalt.
+
+## De ideale thuiswerkplek: een checklist
+
+Niet iedereen kan investeren in een professionele kantoorstoel, maar met een paar aanpassingen kun je veel bereiken:
+
+| Element | Richtlijn |
+|---|---|
+| **Stoel** | Zithoogte zodat je bovenbenen horizontaal zijn en voeten plat op de grond staan |
+| **Bureau** | Ellebogen in een hoek van 90° wanneer je typt |
+| **Beeldscherm** | Bovenkant scherm op ooghoogte, op een armlengte afstand |
+| **Toetsenbord** | Recht voor je, met polsen in neutrale positie (niet gebogen) |
+| **Muis** | Zo dicht mogelijk bij het toetsenbord, vermijd reiken |
+| **Verlichting** | Geen schittering op het scherm, geen felle lichtbron in je zichtlijn |
+
+> **Snelle fix:** Heb je geen verstelbaar bureau? Gebruik een stapel boeken of een laptopstandaard om je scherm op ooghoogte te brengen. Gebruik een los toetsenbord en muis.
+
+## De 20-20-20 regel en pauze-routines
+
+Wetenschappelijk onderzoek wijst steeds opnieuw op hetzelfde: **het probleem is niet hoe je zit, maar hoe lang je zit**. Zelfs in een perfecte houding geeft langdurig zitten klachten.
+
+### De 20-20-20 regel
+Elke **20 minuten**, kijk **20 seconden** naar iets op minstens **20 voet** (6 meter) afstand. Dit ontspant je oogspieren en doorbreekt het star-patroon.
+
+### 5-minuten routine elke 45 minuten
+1. **Sta op** en loop een rondje
+2. **Nekrotaties** — Draai je hoofd langzaam links en rechts (5x per kant)
+3. **Schouders optrekken en laten vallen** — Trek op, houd 3 seconden, laat volledig los (5x)
+4. **Borstopening** — Pak je handen achter je rug vast, trek je schouderbladen naar elkaar, duw je borst vooruit (houd 10 seconden)
+5. **Staande rugextensie** — Plaats je handen in je onderrug en buig licht achterover (5x)
+
+## RSI voorkomen: 5 signalen om serieus te nemen
+
+RSI begint vaak sluipend. Let op deze vroege signalen:
+
+1. **Tinteling of gevoelloosheid** in vingers na het typen
+2. **Stijfheid** in polsen of handen 's ochtends
+3. **Krachtverlies** — je laat vaker dingen vallen
+4. **Pijn** die begint na het typen en steeds eerder op de dag komt
+5. **Vermoeidheid** in onderarmen na normaal werk
+
+Als je twee of meer van deze signalen herkent, wacht dan niet af. RSI wordt moeilijker te behandelen naarmate het langer bestaat.
+
+## Wat kan een fysiotherapeut doen?
+
+- **Werkplekanalyse** — Sommige fysiotherapeuten komen bij je thuis om je werkplek te beoordelen
+- **Houdingsadvies** — Persoonlijk advies op basis van jouw werk en klachten
+- **Dry needling** — Effectief bij triggerpoints in nek en schouders
+- **Manuele therapie** — Mobilisatie van stijve wervels
+- **Oefenprogramma** — Op maat gemaakte oefeningen voor thuis en tussendoor op het werk
+
+## Zoek een fysiotherapeut
+
+Op VindFysio vind je fysiotherapeuten in jouw omgeving met ervaring in houdingsklachten en RSI. Vergelijk praktijken op basis van specialisatie en reviews.
+        `.trim(),
+    },
+    {
+        slug: 'revalidatie-na-operatie-fysiotherapie',
+        title: 'Revalidatie na een operatie: zo helpt fysiotherapie bij herstel',
+        metaTitle: 'Revalidatie na een Operatie — Fysiotherapie & Herstel | VindFysio',
+        description: 'Wordt je geopereerd aan je knie, heup, schouder of rug? Lees hoe fysiotherapie je herstel versnelt, wat je kunt verwachten en hoe de vergoeding werkt.',
+        category: 'Behandelingen',
+        readTime: '8 min',
+        publishedAt: '2025-03-22',
+        updatedAt: '2025-03-22',
+        content: `
+## Waarom revalidatie essentieel is
+
+Een operatie is niet het eindpunt van je behandeling — het is het startpunt van je herstel. Na een orthopedische ingreep aan je knie, heup, schouder of rug heeft je lichaam begeleiding nodig om weer op niveau te komen.
+
+Onderzoek uit het British Medical Journal (BMJ) toont aan dat patiënten die na een operatie begeleid worden door een fysiotherapeut **tot 40% sneller functioneel herstellen** dan patiënten die alleen thuisoefeningen doen. Bovendien hebben zij minder kans op complicaties zoals stijfheid, spierverval of een nieuwe blessure.
+
+## De fases van revalidatie
+
+Ongeacht het type operatie volgt de revalidatie een vast patroon van drie fases:
+
+### Fase 1: Beschermingsfase (week 1-4)
+**Doel:** Wondgenezing beschermen, pijn en zwelling verminderen
+
+In de eerste weken na de operatie is het weefsel kwetsbaar. De fysiotherapeut richt zich op:
+- Pijn- en zwellingmanagement (ijs, compressie, elevatie)
+- Voorzichtige mobilisatie binnen veilige grenzen
+- Activatie van de omliggende spieren zonder het operatiegebied te belasten
+- Looptraining (met krukken of rollator indien nodig)
+
+### Fase 2: Functionele fase (week 4-12)
+**Doel:** Beweeglijkheid en kracht herstellen
+
+De wondgenezing is ver genoeg om meer te gaan belasten:
+- Actieve beweeglijkheidsoefeningen
+- Progressieve krachttraining
+- Balans en coördinatie-oefeningen
+- Opbouwen van dagelijkse activiteiten (traplopen, fietsen, autorijden)
+
+### Fase 3: Terugkeer naar activiteit (week 12+)
+**Doel:** Terug naar werk, sport en dagelijks leven
+
+De laatste fase richt zich op functionaliteit:
+- Sport-specifieke oefeningen (bij sporters)
+- Werkgerelateerde belasting opbouwen
+- Blessurepreventie
+- Zelfmanagement — je leert jezelf onderhouden
+
+## Revalidatie per operatie: wat kun je verwachten?
+
+### Knieprothese (totale knie)
+Jaarlijks worden in Nederland zo'n **28.000 knieprothese-operaties** uitgevoerd (LROI Jaarverslag).
+
+| Periode | Wat kun je verwachten? |
+|---|---|
+| Week 1-2 | Lopen met krukken, buiging tot 90° |
+| Week 4-6 | Fietsen op hometrainer, traplopen |
+| Week 8-12 | Lopen zonder krukken, autorijden |
+| 3-6 maanden | Wandelen, fietsen, zwemmen |
+| 6-12 maanden | Maximaal herstel bereikt |
+
+> **Wist je dat:** De knie buigt gemiddeld **110-120 graden** na een geslaagde revalidatie. Dit is voldoende voor vrijwel alle dagelijkse activiteiten.
+
+### Heupprothese (totale heup)
+Ongeveer **32.000 heupoperaties per jaar** in Nederland (LROI).
+
+Het herstel na een heupprothese gaat over het algemeen sneller dan na een knieprothese. De meeste patiënten:
+- Lopen **na 1-2 dagen** met krukken
+- Zijn **na 6 weken** redelijk zelfstandig
+- Mogen **na 3 maanden** weer autorijden en sporten
+- Bereiken maximaal herstel **na 6-12 maanden**
+
+### Kruisbandoperatie (VKB-reconstructie)
+Populair bij sporters, met **jaarlijks zo'n 7.000 ingrepen** in Nederland.
+
+De revalidatie is intensief en duurt lang — reken op **9-12 maanden** voordat je terug kunt naar contactsporten. De fysiotherapeut meet je voortgang met objectieve testen (kracht, balans, sprongtesten) om te bepalen wanneer je veilig kunt terugkeren.
+
+Uit onderzoek van Grindem et al. (British Journal of Sports Medicine, 2016) bleek dat **voor elke maand die je wacht tot 9 maanden, het risico op een nieuwe blessure met 51% afneemt**. Geduld loont dus.
+
+### Schouderoperatie
+Bij een schouder — bijvoorbeeld een rotator cuff repair of stabilisatie — draag je meestal een sling (mitella) voor 4-6 weken. De revalidatie duurt **4-6 maanden**, met de eerste weken gericht op bescherming en daarna geleidelijke opbouw van beweeglijkheid en kracht.
+
+### Rugoperatie (hernia, spondylodese)
+Na een hernia-operatie kun je meestal snel weer bewegen. De meeste patiënten:
+- Zijn **na 1-2 weken** weer voorzichtig actief
+- Starten fysiotherapie **na 2-4 weken**
+- Zijn **na 6-12 weken** weer aan het werk
+- Na een spondylodese (vastzetten van wervels) is de revalidatie langer: **3-6 maanden**
+
+## Wordt revalidatie vergoed?
+
+De vergoeding hangt af van je situatie:
+
+| Situatie | Vergoeding |
+|---|---|
+| **Chronische aandoening (op de chronische lijst)** | Vanaf behandeling 21 vergoed uit de basisverzekering |
+| **Niet-chronisch (bijv. knie- of heupoperatie)** | Vergoed uit de aanvullende verzekering (check je polis) |
+| **Medisch specialistische revalidatie** | Vergoed uit de basisverzekering (via verwijzing specialist) |
+
+> **Tip:** Vraag het ziekenhuis of je operateur een verwijzing voor fysiotherapie mee te geven. Dit is soms vereist voor vergoeding en helpt bij het direct starten van de revalidatie.
+
+## Hoe kies je een revalidatie-fysiotherapeut?
+
+Niet elke fysiotherapeut heeft dezelfde ervaring met postoperatieve revalidatie. Let op:
+- **Ervaring** met jouw type operatie
+- **Faciliteiten** — beschikt de praktijk over een oefenzaal?
+- **Communicatie met de chirurg** — werkt de fysiotherapeut samen met het ziekenhuis?
+- **Beoordelingen** — lees reviews van andere patiënten
+
+## Zoek een revalidatie fysiotherapeut
+
+Op VindFysio vind je fysiotherapeuten gespecialiseerd in revalidatie bij jou in de buurt. Filter op "revalidatie" en vergelijk praktijken.
+        `.trim(),
+    },
 ];
 
 export function getArticleBySlug(slug) {
