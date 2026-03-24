@@ -41,11 +41,29 @@ const BLOG_SLUGS = [
 
 // ─── Fetch Dynamic URLs ─────────────────────────────────────────────────────
 
-function toSlug(city) {
-    return city.toLowerCase()
+function toSlug(cityName) {
+    return cityName
+        .toLowerCase()
+        .replace(/[''`]/g, '')
+        .replace(/[^a-z0-9\s-]/g, '')
         .replace(/\s+/g, '-')
-        .replace(/[^a-z0-9-]/g, '')
-        .replace(/-+/g, '-');
+        .replace(/-+/g, '-')
+        .replace(/^-|-$/g, '');
+}
+
+function practiceToSlug(name, city) {
+    const raw = `${name || 'praktijk'} ${city || ''}`.trim();
+    return raw
+        .toLowerCase()
+        .replace(/[''`]/g, '')
+        .replace(/ë/g, 'e').replace(/é/g, 'e').replace(/è/g, 'e')
+        .replace(/ü/g, 'u').replace(/ö/g, 'o').replace(/ä/g, 'a')
+        .replace(/ï/g, 'i').replace(/ñ/g, 'n')
+        .replace(/[^a-z0-9\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-')
+        .replace(/^-|-$/g, '')
+        .substring(0, 80);
 }
 
 async function getCityUrls() {
@@ -79,7 +97,7 @@ async function getPracticeUrls() {
     while (true) {
         const { data, error } = await supabase
             .from('practices')
-            .select('google_place_id')
+            .select('name, city')
             .range(page * pageSize, (page + 1) * pageSize - 1);
 
         if (error || !data || data.length === 0) break;
@@ -88,7 +106,16 @@ async function getPracticeUrls() {
         page++;
     }
 
-    return allPractices.map(p => `/praktijk/${p.google_place_id}`);
+    // Deduplicate slugs (same logic as practiceCache.js)
+    const slugCount = new Map();
+    return allPractices.map(p => {
+        let baseSlug = practiceToSlug(p.name, p.city);
+        if (!baseSlug) baseSlug = 'praktijk';
+        const count = slugCount.get(baseSlug) || 0;
+        const finalSlug = count > 0 ? `${baseSlug}-${count + 1}` : baseSlug;
+        slugCount.set(baseSlug, count + 1);
+        return `/praktijk/${finalSlug}`;
+    });
 }
 
 // ─── IndexNow Submission ────────────────────────────────────────────────────
@@ -98,33 +125,41 @@ async function submitToIndexNow(urls) {
     const batchSize = 10000;
     let totalSubmitted = 0;
 
-    for (let i = 0; i < urls.length; i += batchSize) {
-        const batch = urls.slice(i, i + batchSize);
-        const fullUrls = batch.map(u => u.startsWith('http') ? u : `${BASE_URL}${u}`);
+    // Submit to both Bing and Yandex
+    const engines = [
+        { name: 'Bing', url: 'https://www.bing.com/indexnow' },
+        { name: 'Yandex', url: 'https://yandex.com/indexnow' },
+    ];
 
-        const body = {
-            host: 'vindfysio.nl',
-            key: INDEXNOW_KEY,
-            keyLocation: `${BASE_URL}/${INDEXNOW_KEY}.txt`,
-            urlList: fullUrls,
-        };
+    for (const engine of engines) {
+        for (let i = 0; i < urls.length; i += batchSize) {
+            const batch = urls.slice(i, i + batchSize);
+            const fullUrls = batch.map(u => u.startsWith('http') ? u : `${BASE_URL}${u}`);
 
-        try {
-            const res = await fetch('https://api.indexnow.org/indexnow', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify(body),
-            });
+            const body = {
+                host: 'vindfysio.nl',
+                key: INDEXNOW_KEY,
+                keyLocation: `${BASE_URL}/${INDEXNOW_KEY}.txt`,
+                urlList: fullUrls,
+            };
 
-            if (res.ok || res.status === 200 || res.status === 202) {
-                console.log(`   ✅ IndexNow: submitted batch ${Math.floor(i / batchSize) + 1} (${batch.length} URLs) — status ${res.status}`);
-                totalSubmitted += batch.length;
-            } else {
-                const text = await res.text().catch(() => '');
-                console.log(`   ⚠️  IndexNow: batch ${Math.floor(i / batchSize) + 1} — status ${res.status} ${text.substring(0, 100)}`);
+            try {
+                const res = await fetch(engine.url, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(body),
+                });
+
+                if (res.ok || res.status === 200 || res.status === 202) {
+                    console.log(`   ✅ ${engine.name}: submitted batch ${Math.floor(i / batchSize) + 1} (${batch.length} URLs) — status ${res.status}`);
+                    totalSubmitted += batch.length;
+                } else {
+                    const text = await res.text().catch(() => '');
+                    console.log(`   ⚠️  ${engine.name}: batch ${Math.floor(i / batchSize) + 1} — status ${res.status} ${text.substring(0, 100)}`);
+                }
+            } catch (err) {
+                console.log(`   ❌ ${engine.name} error: ${err.message}`);
             }
-        } catch (err) {
-            console.log(`   ❌ IndexNow error: ${err.message}`);
         }
     }
 
