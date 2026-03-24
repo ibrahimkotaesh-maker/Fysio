@@ -31,8 +31,10 @@ export async function generateSitemaps() {
 }
 
 export default async function sitemap({ id }) {
+    const sitemapId = Number(id);
+
     // ─── Sitemap 0: Static + Blog + Specializations + Conditions + Cities ───
-    if (id === 0) {
+    if (sitemapId === 0) {
         const staticPages = [
             { url: BASE_URL, lastModified: new Date(), changeFrequency: 'weekly', priority: 1.0 },
             { url: `${BASE_URL}/zoeken`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.9 },
@@ -116,7 +118,7 @@ export default async function sitemap({ id }) {
     }
 
     // ─── Sitemaps 1..N: Practice pages in batches of 1000 ───────────────────
-    const batchIndex = id - 1;
+    const batchIndex = sitemapId - 1;
     const from = batchIndex * PRACTICE_BATCH_SIZE;
     const to = from + PRACTICE_BATCH_SIZE - 1;
 
